@@ -18,6 +18,6 @@ columns:
   # Tip: usually omit mapping for autoincrement PKs and let the DB assign them.
   id: { const: 1, as_type: int }
   # name: type=VARCHAR(100); REQUIRED
-  name: { const: "config" }
+  name: { from: "name" }
   # description: type=VARCHAR(100); REQUIRED
-  description: { const: "test" }
+  description: { from: "description" }

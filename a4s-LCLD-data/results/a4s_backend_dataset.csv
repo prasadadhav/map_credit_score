@@ -1,3 +1,3 @@
-id,pid,name,description,data,project_id
-1,1bb7e3c4-1078-4f50-bfe8-b22bb2d1c2b0,train-dataset,"",f8ec79c9-791f-496e-a865-0cb87085bc8d.parquet,1
-2,49241e28-2485-4d60-8a18-20a32ee86a09,test-dataset,"",5cda27d7-d86b-407e-9a98-a54fec30b553.parquet,1
+id,pid,type,description,data,project_id,datashape_id
+1,1bb7e3c4-1078-4f50-bfe8-b22bb2d1c2b0,Training,"train",f8ec79c9-791f-496e-a865-0cb87085bc8d.parquet,1,1
+2,49241e28-2485-4d60-8a18-20a32ee86a09,Test,"test",5cda27d7-d86b-407e-9a98-a54fec30b553.parquet,1,1

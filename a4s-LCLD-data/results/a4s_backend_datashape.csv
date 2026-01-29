@@ -1,3 +1,3 @@
-id,pid,status,dataset_id,date_feature_id,target_feature_id
-2,5cf06e53-eb68-459c-86d3-7d8f9defbc89,Auto,2,,
-1,3f9c4e24-46a6-44f0-b72f-e75beef0aaa2,Auto,1,90,89
+id,status,dataset_id,date_feature_id,target_feature_id
+2,Auto,2,,
+1,Auto,1,90,89

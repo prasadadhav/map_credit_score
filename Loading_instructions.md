@@ -1,0 +1,51 @@
+# Loading instrucitons
+
+```bash
+DB="./snt_credit_jan_2026.db"
+CSV_DIR="./a4s-LCLD-data/results"
+SPEC_DIR="./spec_templates_all_tables_credit_snt"
+
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_project.csv" --spec "$SPEC_DIR/project.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_datashape_new.csv" --spec "$SPEC_DIR/datashape.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_configuration.csv" --spec "$SPEC_DIR/configuration.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_tool.csv" --spec "$SPEC_DIR/tool.yml"
+
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_metriccategory.csv" --spec "$SPEC_DIR/metriccategory.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_metric.csv" --spec "$SPEC_DIR/metric.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_direct.csv" --spec "$SPEC_DIR/direct.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_derived.csv" --spec "$SPEC_DIR/derived.yml"
+
+python313 .\element_table_maker.py
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_element.csv" --spec "$SPEC_DIR/element.yml"
+
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_dataset.csv" --spec "$SPEC_DIR/dataset.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_model.csv" --spec "$SPEC_DIR/model.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_feature.csv" --spec "$SPEC_DIR/feature.yml"
+
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_evaluation.csv" --spec "$SPEC_DIR/evaluation.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_confparam.csv" --spec "$SPEC_DIR/confparam.yml"
+
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_observation.csv" --spec "$SPEC_DIR/observation.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_measurement.csv" --spec "$SPEC_DIR/measure.yml"
+
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_metriccategory_metrics.csv" --spec "$SPEC_DIR/metriccategory_metric.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_derived_metric.csv" --spec "$SPEC_DIR/derived_metric.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_evaluation_element.csv" --spec "$SPEC_DIR/evaluation_element.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_evaluates_eval.csv" --spec "$SPEC_DIR/evaluates_eval.yml"
+
+```
+
+
+
+```Powershell
+$DB=".\snt_credit_jan_2026.db"
+$CSV_DIR=".\a4s-LCLD-data\results"
+$SPEC_DIR=".\spec_templates_all_tables_credit_snt"
+
+python .\csv_to_sql_loader.py --db $DB --csv "$CSV_DIR\a4s_backend_datashape.csv" --spec "$SPEC_DIR\datashape.yml"
+python .\csv_to_sql_loader.py --db $DB --csv "$CSV_DIR\a4s_backend_configuration.csv" --spec "$SPEC_DIR\configuration.yml"
+python .\csv_to_sql_loader.py --db $DB --csv "$CSV_DIR\a4s_backend_tool.csv" --spec "$SPEC_DIR\tool.yml"
+.
+.
+.
+```

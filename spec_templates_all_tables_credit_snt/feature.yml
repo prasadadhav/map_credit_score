@@ -11,13 +11,13 @@ key: ['id']
 columns:
   # id: type=INTEGER; PK; AUTOINC-LIKE; FK→element.id
   # Tip: usually omit mapping for autoincrement PKs and let the DB assign them.
-  # id: { from: "<CSV_id>", optional: true }
+  id: { from: "id", optional: true }
   # feature_type: type=VARCHAR(100); REQUIRED
-  feature_type: { from: "<CSV_feature_type>" }
+  feature_type: { from: "feature_type" }
   # min_value: type=FLOAT; REQUIRED
-  min_value: { from: "<CSV_min_value>" }
+  min_value: { from: "min_value" }
   # max_value: type=FLOAT; REQUIRED
-  max_value: { from: "<CSV_max_value>" }
+  max_value: { from: "max_value" }
   # date_id: type=INTEGER; REQUIRED; FK→datashape.id
   date_id: { from: "<CSV_date_id>" }
   # features_id: type=INTEGER; REQUIRED; FK→datashape.id
