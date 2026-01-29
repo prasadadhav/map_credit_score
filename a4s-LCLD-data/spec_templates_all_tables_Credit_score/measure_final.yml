@@ -1,0 +1,11 @@
+# Final measure loading spec
+table: measure
+mode: insert
+columns:
+  value: { from: "value", as_type: "float" }
+  error: { from: "error" }
+  uncertainty: { from: "uncertainty", as_type: "float" }
+  unit: { from: "unit" }
+  metric_id: { from: "metric_id", as_type: "int" }
+  observation_id: { from: "observation_id", as_type: "int" }
+  measurand_id: { from: "measurand_id", as_type: "int" }

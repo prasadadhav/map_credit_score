@@ -1,0 +1,15 @@
+# Spec template for table: metric
+# Metric definitions for all language proficiency tests
+# CSV: metric_catalog_updated.csv
+#
+# Run: python313 .\\csv_to_sql_loader.py `
+#   --db ".<db_name>.db" `
+#   --csv ".\data_Cedric_Lux\metric_catalog_updated.csv" `
+#   --spec ".\spec_templates_all_tables_Cedric_LUX\metric.yml"
+
+table: metric
+mode: insert  # Insert each metric once
+columns:
+  type_spec: { from: "type_spec" }  # "Direct" for directly measured metrics
+  name: { from: "name" }
+  description: { from: "name", transform: "upper" }  # Use metric name as description

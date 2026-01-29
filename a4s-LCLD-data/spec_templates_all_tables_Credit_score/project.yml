@@ -1,0 +1,9 @@
+# Spec template for table: project
+# Luxembourgish CEFR Language Proficiency Tests for LLMs
+# This creates the top-level project that groups all evaluation data
+
+table: project
+mode: insert  # Only insert once per project
+columns:
+  name: { const: "Luxembourgish LLM CEFR Language Proficiency Tests" }
+  status: { const: "Done" }

@@ -1,0 +1,8 @@
+# Spec template for table: configuration
+# Test configuration/parameters for the evaluation
+
+table: configuration
+mode: insert  # Only insert once per configuration
+columns:
+  name: { const: "Luxembourgish Language Proficiency Test Configuration" }
+  description: { const: "CEFR-based language proficiency testing on Luxembourgish (levels A1-C2)" }

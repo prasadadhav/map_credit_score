@@ -1,0 +1,9 @@
+# Spec template for table: evaluation
+# Links evaluation data to project and configuration
+
+table: evaluation
+mode: insert  # One evaluation per configuration
+columns:
+  status: { const: "Done" }
+  project_id: { const: 1 }  # Reference to project inserted first
+  config_id: { const: 1 }   # Reference to configuration inserted first

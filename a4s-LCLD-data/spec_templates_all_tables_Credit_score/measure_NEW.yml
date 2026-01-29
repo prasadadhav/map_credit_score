@@ -1,0 +1,26 @@
+# Spec template for table: measure
+# Individual measurement values (scores)
+# CSV: measures_expanded.csv (created by prepare_data.py script)
+#
+# IMPORTANT: This CSV must be created using prepare_data.py script
+# which expands the wide-format CSV to long format.
+#
+# Run: python313 .\\csv_to_sql_loader.py `
+#   --db ".<db_name>.db" `
+#   --csv ".\data_Cedric_Lux\measures_expanded.csv" `
+#   --spec ".\spec_templates_all_tables_Cedric_LUX\measure.yml"
+#
+# NOTE: After loading, you may need to manually set metric_id, observation_id,
+# and measurand_id using SQL UPDATE statements based on model/metric lookups.
+
+table: measure
+mode: insert  # Insert each measurement
+columns:
+  value: { from: "value", as_type: "float" }
+  error: { from: "error" }
+  uncertainty: { from: "uncertainty", as_type: "float" }
+  unit: { from: "unit" }
+  # The following require manual mapping or multi-step loading:
+  # metric_id: Must join with metric table on metric_name
+  # observation_id: Must reference observation table
+  # measurand_id: Must join with model/element table on model_name

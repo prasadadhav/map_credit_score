@@ -1,0 +1,14 @@
+# Spec template for table: dataset
+# INL Luxembourgish Test Dataset
+# Represents the INL language proficiency test dataset
+
+table: dataset
+mode: insert  # Only insert once per dataset
+columns:
+  # name: { const: "INL Luxembourgish Language Tests" }
+  # description: { const: "Institut National de Langues Luxembourgish language proficiency tests at CEFR levels A1-C2" }
+  source: { const: "INL" }
+  version: { const: "2025-10-30" }
+  licensing: { const: "Proprietary" }
+  dataset_type: { const: "Test" }
+  datashape_id: { const: 1 }
