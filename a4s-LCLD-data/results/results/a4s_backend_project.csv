@@ -1,0 +1,2 @@
+id,pid,name,description,status,frequency,window_size,expected_datashape_id
+1,bd65a06d-172e-47d0-aa2c-dc84730a8e59,LCLD_full,"",Created,1D,7 days,1
