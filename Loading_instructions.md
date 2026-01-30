@@ -23,16 +23,19 @@ python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_model.cs
 python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_feature.csv" --spec "$SPEC_DIR/feature.yml"
 
 python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_evaluation.csv" --spec "$SPEC_DIR/evaluation.yml"
-python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_confparam.csv" --spec "$SPEC_DIR/confparam.yml"
+# python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_confparam.csv" --spec "$SPEC_DIR/confparam.yml"
 
 python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_observation.csv" --spec "$SPEC_DIR/observation.yml"
 python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_measurement.csv" --spec "$SPEC_DIR/measure.yml"
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_measurement_metrics_only.csv" --spec "$SPEC_DIR/measure.yml"
 
-python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_metriccategory_metrics.csv" --spec "$SPEC_DIR/metriccategory_metric.yml"
-python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_derived_metric.csv" --spec "$SPEC_DIR/derived_metric.yml"
+#python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_metriccategory_metrics.csv" --spec "$SPEC_DIR/metriccategory_metric.yml"
+#python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_derived_metric.csv" --spec "$SPEC_DIR/derived_metric.yml"
 python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_evaluation_element.csv" --spec "$SPEC_DIR/evaluation_element.yml"
 python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_evaluates_eval.csv" --spec "$SPEC_DIR/evaluates_eval.yml"
 
+
+python313 ./csv_to_sql_loader.py --db "$DB" --csv "$CSV_DIR/a4s_backend_comments.csv" --spec "$SPEC_DIR/comments.yml"
 ```
 
 
@@ -49,3 +52,55 @@ python .\csv_to_sql_loader.py --db $DB --csv "$CSV_DIR\a4s_backend_tool.csv" --s
 .
 .
 ```
+
+
+
+
+
+
+
+
+Recommended load order
+
+A. Roots (nothing depends on these)
+
+project
+
+datashape
+
+configuration
+
+tool
+
+metriccategory
+
+metric
+
+direct
+
+derived
+
+element
+
+B. Depends-on-roots
+10. dataset (depends on element, datashape)
+11. model (depends on element, dataset)
+12. feature (depends on element, datashape)
+13. evaluation (depends on project, configuration)
+14. confparam (depends on configuration)
+15. observation (depends on tool, dataset, evaluation)
+16. measure / measurement (depends on element, metric, observation)
+- Your CSV is named a4s_backend_measurement.csv, but the SQLAlchemy table is measure. Your spec file controls the target table name. 
+
+sql_alchemy
+
+C. Junction tables (many-to-many) — load last
+17. metriccategory_metric
+18. derived_metric
+19. evaluation_element
+20. evaluates_eval
+
+D. Optional
+
+comments (standalone)
+legalrequirement (depends on project)

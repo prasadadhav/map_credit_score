@@ -290,6 +290,7 @@ id,pid,name,description,unit,time,score,error,uncertainty,feature_id,metric_id,o
 289,42b10d50-83ce-47e0-a340-7df029656da5,jensenshannon,"",percent,2012-04-17 00:00:00+00,0.03868561160083416,N/A,0,39,2,1
 290,0e8ade56-5279-4d8a-892b-5cf3ab9810ac,jensenshannon,"",percent,2012-04-17 00:00:00+00,0.1622200951244653,N/A,0,41,2,1
 291,6e9e227b-4463-4259-80d6-f92d3f94c654,wasserstein_distance,"",percent,2012-04-17 00:00:00+00,1.3150965659340657,N/A,0,42,1,1
+707,87a1d38f-be33-4ece-b888-369d853203a7,MCC,"",percent,2012-04-17 00:00:00+00,0,N/A,0,,5,1
 292,6f1e2560-58f0-4b14-bc77-c96f5fddc067,wasserstein_distance,"",percent,2012-04-17 00:00:00+00,0.5847115384615379,N/A,0,43,1,1
 293,e988e7e3-45f8-46a5-8af0-42daba7da038,wasserstein_distance,"",percent,2012-04-17 00:00:00+00,0.043173076923076925,N/A,0,44,1,1
 294,5f4c0c15-29b3-4200-8f34-011b2de72729,wasserstein_distance,"",percent,2012-04-17 00:00:00+00,1847.2120467032955,N/A,0,45,1,1
@@ -643,3 +644,294 @@ id,pid,name,description,unit,time,score,error,uncertainty,feature_id,metric_id,o
 642,74aa90bb-38ad-412d-bb07-d93240ebaf9d,wasserstein_distance,"",percent,2012-04-29 00:00:00+00,0.00016174421685335324,N/A,0,57,1,1
 643,13009675-404d-4c55-90ab-90494393e220,wasserstein_distance,"",percent,2012-04-29 00:00:00+00,0.00014598827510311295,N/A,0,58,1,1
 644,4441162a-196a-47c5-ae34-f9cb8470c2c1,wasserstein_distance,"",percent,2012-04-29 00:00:00+00,0.04302197802197805,N/A,0,59,1,1
+645,09dee87a-749a-4d1a-9a5b-06113bcfd856,Accuracy,"",percent,2012-04-07 00:00:00+00,0.8469387755102041,N/A,0,,3,1
+646,196efbc6-1a0d-4ff5-add4-22cb6b1fcb7d,F1,"",percent,2012-04-07 00:00:00+00,0,N/A,0,,4,1
+647,1d4c66a0-cb18-4e88-9aca-8e3c5b592ed9,MCC,"",percent,2012-04-07 00:00:00+00,0,N/A,0,,5,1
+648,b1103f26-14bc-4eba-bece-b6dfa274e5ef,Precision,"",percent,2012-04-07 00:00:00+00,0,N/A,0,,6,1
+649,eb7d8ac8-8c1a-439c-83bc-ba66220fe8ba,ROCAUC,"",percent,2012-04-07 00:00:00+00,0.814859437751004,N/A,0,,7,1
+650,61e3b049-865d-49ee-8cda-403d2e3129f6,Recall,"",percent,2012-04-07 00:00:00+00,0,N/A,0,,8,1
+651,61e217a4-0579-4e9c-a240-f75770832714,Accuracy,"",percent,2012-04-08 00:00:00+00,0.8775510204081632,N/A,0,,3,1
+652,57541de7-e7ed-4e46-aea5-6cf62d0185ea,F1,"",percent,2012-04-08 00:00:00+00,0,N/A,0,,4,1
+653,5d772464-5f70-45c2-addd-df1014c30501,MCC,"",percent,2012-04-08 00:00:00+00,0,N/A,0,,5,1
+654,782dea5b-ee96-44ba-8156-6fc45a24e592,Precision,"",percent,2012-04-08 00:00:00+00,0,N/A,0,,6,1
+655,7531a482-69c8-4683-b851-a672cdfd1fe3,ROCAUC,"",percent,2012-04-08 00:00:00+00,0.9035852713178294,N/A,0,,7,1
+656,285b7d1d-11f0-439a-a4f4-69c19432adb7,Recall,"",percent,2012-04-08 00:00:00+00,0,N/A,0,,8,1
+657,4255e27c-459d-45cd-affd-1e08a595eaa2,Accuracy,"",percent,2012-04-09 00:00:00+00,0.8979591836734694,N/A,0,,3,1
+658,016061a0-a000-48e0-af6d-27bbfb893bb1,F1,"",percent,2012-04-09 00:00:00+00,0,N/A,0,,4,1
+659,b465e93c-2d4e-4fc6-9169-604fb19924c3,MCC,"",percent,2012-04-09 00:00:00+00,0,N/A,0,,5,1
+660,44efcf20-73b8-4996-b74d-025088ebb256,Precision,"",percent,2012-04-09 00:00:00+00,0,N/A,0,,6,1
+661,3ccca78b-7efc-4f79-9602-64843d9fa194,ROCAUC,"",percent,2012-04-09 00:00:00+00,0.9238636363636363,N/A,0,,7,1
+662,b67c86a6-af48-4ff5-81c8-8f57f3f270aa,Recall,"",percent,2012-04-09 00:00:00+00,0,N/A,0,,8,1
+663,58426489-4a11-45e8-9ce1-ca9798d4326f,Accuracy,"",percent,2012-04-10 00:00:00+00,0.8673469387755102,N/A,0,,3,1
+664,89952f73-c25f-4af7-b379-fee4d8285a80,F1,"",percent,2012-04-10 00:00:00+00,0,N/A,0,,4,1
+665,17e88022-48f7-4197-8240-c5d0fd5501e1,MCC,"",percent,2012-04-10 00:00:00+00,0,N/A,0,,5,1
+666,468f600b-2dc9-4dc2-9ec2-b63b3e92c38e,Precision,"",percent,2012-04-10 00:00:00+00,0,N/A,0,,6,1
+667,5e577f28-e79f-4f82-afe6-2107fbe6ea7a,ROCAUC,"",percent,2012-04-10 00:00:00+00,0.8755656108597285,N/A,0,,7,1
+668,14525166-06fa-4c16-9cf4-b974a4fe17b6,Recall,"",percent,2012-04-10 00:00:00+00,0,N/A,0,,8,1
+669,3d2095f7-0fd1-4b5a-bc2f-0542956b2b7a,Accuracy,"",percent,2012-04-11 00:00:00+00,0.8556701030927835,N/A,0,,3,1
+670,790b9158-eb68-4adb-8fff-c673a26f7903,F1,"",percent,2012-04-11 00:00:00+00,0,N/A,0,,4,1
+671,613d2d40-abb7-4125-a2a5-a82653589898,MCC,"",percent,2012-04-11 00:00:00+00,0,N/A,0,,5,1
+672,78eb55e4-987f-41ca-9994-e8b2acd6c094,Precision,"",percent,2012-04-11 00:00:00+00,0,N/A,0,,6,1
+673,8307eb0d-d052-44c2-90f3-f4ebc1337048,ROCAUC,"",percent,2012-04-11 00:00:00+00,0.8894148020654045,N/A,0,,7,1
+674,afb1ea1e-f906-4838-bee9-f6c029a67a9d,Recall,"",percent,2012-04-11 00:00:00+00,0,N/A,0,,8,1
+675,5f9271a6-5ba7-4a4b-ba4f-ecf2b13694e5,Accuracy,"",percent,2012-04-12 00:00:00+00,0.8541666666666666,N/A,0,,3,1
+676,ff8b7450-b0c1-4fa2-a78d-4d7a9da4f220,F1,"",percent,2012-04-12 00:00:00+00,0,N/A,0,,4,1
+677,0a3381c7-b1a0-4ba0-bf61-c91b854ef7a0,MCC,"",percent,2012-04-12 00:00:00+00,0,N/A,0,,5,1
+678,c973683f-29ff-446f-9811-d36fc586aa43,Precision,"",percent,2012-04-12 00:00:00+00,0,N/A,0,,6,1
+679,5ff867e8-592b-44ba-b972-dac1b99125ba,ROCAUC,"",percent,2012-04-12 00:00:00+00,0.8806620209059233,N/A,0,,7,1
+680,860e5177-dc48-44da-b98b-9272bd1c30c9,Recall,"",percent,2012-04-12 00:00:00+00,0,N/A,0,,8,1
+681,a3b83eb2-70bf-4a1b-a96d-6c03367b2e04,Accuracy,"",percent,2012-04-13 00:00:00+00,0.8315789473684211,N/A,0,,3,1
+682,3b78504c-ab3d-4f8a-b2f9-3620e23d2fc7,F1,"",percent,2012-04-13 00:00:00+00,0,N/A,0,,4,1
+683,97f2e9bf-853c-45e8-b397-800d21e64979,MCC,"",percent,2012-04-13 00:00:00+00,0,N/A,0,,5,1
+684,e863fc81-f872-44f9-b935-2c547f32532d,Precision,"",percent,2012-04-13 00:00:00+00,0,N/A,0,,6,1
+685,8a5cf886-1a47-4cea-964b-f7fdb33b395b,ROCAUC,"",percent,2012-04-13 00:00:00+00,0.8239715189873417,N/A,0,,7,1
+686,43eb09fc-1891-4cf6-af37-22cf028848ea,Recall,"",percent,2012-04-13 00:00:00+00,0,N/A,0,,8,1
+687,231a5d65-5be1-4654-9dca-330fc8fa7226,Accuracy,"",percent,2012-04-14 00:00:00+00,0.8085106382978723,N/A,0,,3,1
+688,c466fb92-9480-4ab9-9b48-00c9a1394617,F1,"",percent,2012-04-14 00:00:00+00,0,N/A,0,,4,1
+689,aa785929-3cc1-42aa-9628-0b82a749c882,MCC,"",percent,2012-04-14 00:00:00+00,0,N/A,0,,5,1
+690,21e3a6fb-8a86-4112-bc54-75dabb1c9ac9,Precision,"",percent,2012-04-14 00:00:00+00,0,N/A,0,,6,1
+691,3a3ffe2e-2828-47d7-b318-2e9a8f5c9e0e,ROCAUC,"",percent,2012-04-14 00:00:00+00,0.8377192982456141,N/A,0,,7,1
+692,278d09cf-abc6-46b0-8b29-39c4ba6f5a0d,Recall,"",percent,2012-04-14 00:00:00+00,0,N/A,0,,8,1
+693,b647596d-8da4-40cc-b86c-9bf6fa4c9428,Accuracy,"",percent,2012-04-15 00:00:00+00,0.8064516129032258,N/A,0,,3,1
+694,1e1c23fd-6a90-415a-bf2f-dcb344a6bfcc,F1,"",percent,2012-04-15 00:00:00+00,0,N/A,0,,4,1
+695,0fb431ef-3909-47ae-bb2d-c3b3d8d8a108,MCC,"",percent,2012-04-15 00:00:00+00,0,N/A,0,,5,1
+696,33dd5484-04f2-459b-9113-4d4896a9ef3b,Precision,"",percent,2012-04-15 00:00:00+00,0,N/A,0,,6,1
+697,c01b249b-35a1-4aba-93c7-7d560ed17c10,ROCAUC,"",percent,2012-04-15 00:00:00+00,0.8077777777777777,N/A,0,,7,1
+698,d5fd45c0-4232-4e49-a2c3-cc11d407a9db,Recall,"",percent,2012-04-15 00:00:00+00,0,N/A,0,,8,1
+699,a706ee3f-e895-4f3a-880a-1ca1dfd66f58,Accuracy,"",percent,2012-04-16 00:00:00+00,0.782608695652174,N/A,0,,3,1
+700,c0c03cb0-1c91-467b-880e-3650c85f7854,F1,"",percent,2012-04-16 00:00:00+00,0,N/A,0,,4,1
+701,d5fd7fde-e60e-4f83-915e-d6d02408a169,MCC,"",percent,2012-04-16 00:00:00+00,0,N/A,0,,5,1
+702,acc397d2-6271-458c-b06c-60266cdff28a,Precision,"",percent,2012-04-16 00:00:00+00,0,N/A,0,,6,1
+703,84cc572f-aeea-41c2-91c8-1ffe788c19dd,ROCAUC,"",percent,2012-04-16 00:00:00+00,0.773611111111111,N/A,0,,7,1
+704,5e11fb56-0ba8-42f1-a89f-d096a3934493,Recall,"",percent,2012-04-16 00:00:00+00,0,N/A,0,,8,1
+705,b88ff517-282f-4208-86b3-0f7317b7fe72,Accuracy,"",percent,2012-04-17 00:00:00+00,0.8241758241758241,N/A,0,,3,1
+706,b8c4bc48-e133-472d-bc02-ae541cb6ef51,F1,"",percent,2012-04-17 00:00:00+00,0,N/A,0,,4,1
+708,494bfba9-7c23-4efb-bff2-fdeab456050b,Precision,"",percent,2012-04-17 00:00:00+00,0,N/A,0,,6,1
+709,67ad50a9-b74a-4834-a771-8bc50783e2d1,ROCAUC,"",percent,2012-04-17 00:00:00+00,0.77375,N/A,0,,7,1
+710,0336b4ab-2809-4d78-aa45-a4a3186d78ce,Recall,"",percent,2012-04-17 00:00:00+00,0,N/A,0,,8,1
+711,31231f2d-df49-492c-ac5f-dba7b4356b12,Accuracy,"",percent,2012-04-18 00:00:00+00,0.8351648351648352,N/A,0,,3,1
+712,b182fe7c-6c0c-4c45-a611-87723a131acc,F1,"",percent,2012-04-18 00:00:00+00,0,N/A,0,,4,1
+713,6c9e2e36-92b7-4c19-990f-3cb56a16c582,MCC,"",percent,2012-04-18 00:00:00+00,0,N/A,0,,5,1
+714,ef98e9a6-0da3-4104-8e83-d6a848a41615,Precision,"",percent,2012-04-18 00:00:00+00,0,N/A,0,,6,1
+715,4d5d4185-c74d-4ffd-ab09-b9ccf638e8ec,ROCAUC,"",percent,2012-04-18 00:00:00+00,0.762719298245614,N/A,0,,7,1
+716,88b34f7c-f581-4dfc-b16d-f4a8e7cfdf8c,Recall,"",percent,2012-04-18 00:00:00+00,0,N/A,0,,8,1
+717,0b517687-60d5-49d5-90ef-c1c66105ac62,Accuracy,"",percent,2012-04-19 00:00:00+00,0.8351648351648352,N/A,0,,3,1
+718,3882f5de-39e6-4319-9646-b592e3bed401,F1,"",percent,2012-04-19 00:00:00+00,0,N/A,0,,4,1
+719,381e0b4b-decf-47b0-a528-6b474cf4710b,MCC,"",percent,2012-04-19 00:00:00+00,0,N/A,0,,5,1
+720,c57ebb93-6c69-43ca-a6c4-a2aa9ee63462,Precision,"",percent,2012-04-19 00:00:00+00,0,N/A,0,,6,1
+721,b2a66564-d94c-4d5c-951d-4e7ec3b4d638,ROCAUC,"",percent,2012-04-19 00:00:00+00,0.7035087719298245,N/A,0,,7,1
+722,e37c59f6-1cb8-4f53-9a52-7c4de36a9bd4,Recall,"",percent,2012-04-19 00:00:00+00,0,N/A,0,,8,1
+723,17780a0a-041b-47db-a477-3679e1d33315,Accuracy,"",percent,2012-04-20 00:00:00+00,0.8681318681318682,N/A,0,,3,1
+724,df6f531b-caa6-487a-bdc7-322eae4cd2f3,F1,"",percent,2012-04-20 00:00:00+00,0,N/A,0,,4,1
+725,981a611d-2788-406c-b947-e894f6a12469,MCC,"",percent,2012-04-20 00:00:00+00,0,N/A,0,,5,1
+726,cec18884-5427-492d-a576-a643800a6dfa,Precision,"",percent,2012-04-20 00:00:00+00,0,N/A,0,,6,1
+727,5e9ff0c0-a9bb-40ac-aad3-815e664f5948,ROCAUC,"",percent,2012-04-20 00:00:00+00,0.7320675105485233,N/A,0,,7,1
+728,210e8675-7a56-4a85-9759-ced74e8a7b69,Recall,"",percent,2012-04-20 00:00:00+00,0,N/A,0,,8,1
+729,9e481ac6-eb0e-43f8-a39a-6b6acceb9b22,Accuracy,"",percent,2012-04-21 00:00:00+00,0.8901098901098901,N/A,0,,3,1
+730,f8beb94c-f39d-4314-8a95-5cf790c8b255,F1,"",percent,2012-04-21 00:00:00+00,0,N/A,0,,4,1
+731,07dee00f-f53c-4e7c-8ad5-bfed92b6cf52,MCC,"",percent,2012-04-21 00:00:00+00,0,N/A,0,,5,1
+732,086e90a5-f88e-468e-9de1-c7baf267b113,Precision,"",percent,2012-04-21 00:00:00+00,0,N/A,0,,6,1
+733,75a1cc20-2af1-424a-bd9c-5163e8490b16,ROCAUC,"",percent,2012-04-21 00:00:00+00,0.608641975308642,N/A,0,,7,1
+734,d3b24e2f-97cd-40ab-8445-32a355b94ff7,Recall,"",percent,2012-04-21 00:00:00+00,0,N/A,0,,8,1
+735,34fe4986-5809-4f78-941e-b4ce1cd08682,Accuracy,"",percent,2012-04-22 00:00:00+00,0.9010989010989011,N/A,0,,3,1
+736,5ce85dd4-388e-46db-a71e-dd30938db23e,F1,"",percent,2012-04-22 00:00:00+00,0,N/A,0,,4,1
+737,cf07d765-ea75-4b1e-ba62-857b18b10ab2,MCC,"",percent,2012-04-22 00:00:00+00,0,N/A,0,,5,1
+738,962e8a11-119a-486c-aac6-426c9ef96fb0,Precision,"",percent,2012-04-22 00:00:00+00,0,N/A,0,,6,1
+739,2432f22d-a804-457b-af10-1b4b264a9334,ROCAUC,"",percent,2012-04-22 00:00:00+00,0.5995934959349594,N/A,0,,7,1
+740,613454a2-bbb8-4cac-ad12-3b392145c167,Recall,"",percent,2012-04-22 00:00:00+00,0,N/A,0,,8,1
+741,b5c88403-51b4-46da-bf9c-998b5fb01dfe,Accuracy,"",percent,2012-04-23 00:00:00+00,0.9010989010989011,N/A,0,,3,1
+742,63a362dd-a47d-4829-b3bb-fd0222c566a9,F1,"",percent,2012-04-23 00:00:00+00,0,N/A,0,,4,1
+743,2a685add-8d83-449f-baac-63498774e1e2,MCC,"",percent,2012-04-23 00:00:00+00,0,N/A,0,,5,1
+744,3bca6d06-bb1e-403e-bd44-52a71bc0b42b,Precision,"",percent,2012-04-23 00:00:00+00,0,N/A,0,,6,1
+745,416dca80-66c1-4afb-9b20-16dc7d6a51eb,ROCAUC,"",percent,2012-04-23 00:00:00+00,0.6016260162601625,N/A,0,,7,1
+746,acee6aee-5dd4-4c6f-a49b-010c027d6453,Recall,"",percent,2012-04-23 00:00:00+00,0,N/A,0,,8,1
+747,7af14952-57b4-44d2-81cc-0aa43d74c2f9,Accuracy,"",percent,2012-04-24 00:00:00+00,0.8791208791208791,N/A,0,,3,1
+748,354c7c9b-abaa-4d84-a2f0-52c01db1732d,F1,"",percent,2012-04-24 00:00:00+00,0,N/A,0,,4,1
+749,fa0ec302-74c7-4e18-b572-1574c6e70a62,MCC,"",percent,2012-04-24 00:00:00+00,0,N/A,0,,5,1
+750,4808dca5-1948-487f-8ffc-0d09c998c27a,Precision,"",percent,2012-04-24 00:00:00+00,0,N/A,0,,6,1
+751,e60250c3-cb84-417d-b5c8-1a7e73978f4b,ROCAUC,"",percent,2012-04-24 00:00:00+00,0.602840909090909,N/A,0,,7,1
+752,d02ed5bd-d9b9-4d7b-90f9-9ec9fbd64ece,Recall,"",percent,2012-04-24 00:00:00+00,0,N/A,0,,8,1
+753,fdc55a23-cfca-4bf4-8260-ef38389340e4,Accuracy,"",percent,2012-04-25 00:00:00+00,0.8681318681318682,N/A,0,,3,1
+754,0dd76897-3039-49fe-8a0f-8bfaa2f8cf48,F1,"",percent,2012-04-25 00:00:00+00,0,N/A,0,,4,1
+755,7b6b10cf-9414-49eb-a68d-fa0eb1c25ec4,MCC,"",percent,2012-04-25 00:00:00+00,0,N/A,0,,5,1
+756,fdc2abf3-faed-4710-8980-ec0729e66406,Precision,"",percent,2012-04-25 00:00:00+00,0,N/A,0,,6,1
+757,6f727fc5-8c14-46a6-9d62-6bba52c7fd91,ROCAUC,"",percent,2012-04-25 00:00:00+00,0.5833333333333333,N/A,0,,7,1
+758,a521c832-9d22-4f7a-8a2d-890e3211bce9,Recall,"",percent,2012-04-25 00:00:00+00,0,N/A,0,,8,1
+759,58ddd12e-4b9e-4425-b2dc-53d07d4474b9,Accuracy,"",percent,2012-04-26 00:00:00+00,0.8791208791208791,N/A,0,,3,1
+760,d13a2a9a-7cfa-4c11-aa5f-18e7f4729104,F1,"",percent,2012-04-26 00:00:00+00,0,N/A,0,,4,1
+761,8c57619e-d561-4b04-9f3b-40c87f9b13d0,MCC,"",percent,2012-04-26 00:00:00+00,0,N/A,0,,5,1
+762,fbf22851-9021-4b0e-b84f-1e252c49235b,Precision,"",percent,2012-04-26 00:00:00+00,0,N/A,0,,6,1
+763,72cad643-7720-4105-a023-914e79f543e9,ROCAUC,"",percent,2012-04-26 00:00:00+00,0.5488636363636363,N/A,0,,7,1
+764,9ebcb678-b8d6-406b-9ccd-0c24c0205e39,Recall,"",percent,2012-04-26 00:00:00+00,0,N/A,0,,8,1
+765,2fdbb3de-57ee-4222-af86-b3bbf06e2ab1,Accuracy,"",percent,2012-04-27 00:00:00+00,0.8681318681318682,N/A,0,,3,1
+766,137cb0f3-9878-475c-9b1b-674b57f6cac0,F1,"",percent,2012-04-27 00:00:00+00,0,N/A,0,,4,1
+767,6ca086b9-b377-4c34-9300-274633b14dbd,MCC,"",percent,2012-04-27 00:00:00+00,0,N/A,0,,5,1
+768,9a8be849-68fb-4365-9f7c-96c4595f57ef,Precision,"",percent,2012-04-27 00:00:00+00,0,N/A,0,,6,1
+769,f16525bb-71ac-4525-86eb-6e917753d6d2,ROCAUC,"",percent,2012-04-27 00:00:00+00,0.5490506329113923,N/A,0,,7,1
+770,c79172da-c748-42a6-b27b-edd7491ca16e,Recall,"",percent,2012-04-27 00:00:00+00,0,N/A,0,,8,1
+771,041da71c-2ca8-4e4d-9b26-a8b4c54ee77e,Accuracy,"",percent,2012-04-28 00:00:00+00,0.8791208791208791,N/A,0,,3,1
+772,bd8df10c-108e-44ce-861c-57b2863fa7fb,F1,"",percent,2012-04-28 00:00:00+00,0,N/A,0,,4,1
+773,02c01d72-317a-4e89-a79f-7e7225a1fa90,MCC,"",percent,2012-04-28 00:00:00+00,0,N/A,0,,5,1
+774,4395cb97-ea1c-49ae-a286-017b34ca4c8c,Precision,"",percent,2012-04-28 00:00:00+00,0,N/A,0,,6,1
+775,967c1c69-1948-4730-9142-f058f11970cf,ROCAUC,"",percent,2012-04-28 00:00:00+00,0.5852272727272727,N/A,0,,7,1
+776,9c26dd01-177f-441d-8756-e879a76e98ff,Recall,"",percent,2012-04-28 00:00:00+00,0,N/A,0,,8,1
+777,7c8f9f83-4d68-4e76-a55c-b0e1618efcc3,Accuracy,"",percent,2012-04-29 00:00:00+00,0.8571428571428571,N/A,0,,3,1
+778,b454c358-c79a-4c8b-9a4b-eeb881f7ce6d,F1,"",percent,2012-04-29 00:00:00+00,0,N/A,0,,4,1
+779,e7948820-cb72-4f7a-aebb-59516910b3eb,MCC,"",percent,2012-04-29 00:00:00+00,0,N/A,0,,5,1
+780,98375371-5700-45de-9f2c-bff43f58fbd4,Precision,"",percent,2012-04-29 00:00:00+00,0,N/A,0,,6,1
+781,ac4c0cb2-6af7-4c6d-8bb1-19e2aa20473a,ROCAUC,"",percent,2012-04-29 00:00:00+00,0.5759368836291914,N/A,0,,7,1
+782,b1a4aa0f-233d-402c-934a-b8db953f78b1,Recall,"",percent,2012-04-29 00:00:00+00,0,N/A,0,,8,1
+783,3ca23dd1-30e1-4058-a6b1-90e98f3764ec,Distribution Inside,loan_amnt,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+784,376304ff-fb9e-4801-ad98-53de9d1f75de,Distribution Outside,loan_amnt,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+785,1b276f5e-050e-4a71-9349-b1526d8d2ae6,Distribution Inside,term,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+786,281ea48b-2c14-4833-9ff3-242bf62c8163,Distribution Outside,term,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+787,61e5139b-dda8-432c-88ad-c8f76cd2ac9f,Distribution Inside,int_rate,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+788,5b3e2052-025c-4b7d-983a-07e6544d057b,Distribution Outside,int_rate,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+789,096202c9-a3e6-4ffd-a0f9-09e1c8fd4d12,Distribution Inside,installment,percent,2012-04-30 00:00:00+00,394,N/A,0,,9,1
+790,62ca05b0-a477-4722-9ca8-87e829b51ecc,Distribution Outside,installment,percent,2012-04-30 00:00:00+00,6,N/A,0,,10,1
+791,e556e370-5817-42ee-b47e-590484d63adb,Distribution Inside,sub_grade,percent,2012-04-30 00:00:00+00,397,N/A,0,,9,1
+792,8701c8db-5b85-46bf-a99a-e7e7e845a700,Distribution Outside,sub_grade,percent,2012-04-30 00:00:00+00,3,N/A,0,,10,1
+793,ead9327e-569d-43ed-976c-fdf7ef0b9e52,Distribution Inside,emp_length,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+794,b15ae148-0d62-4d94-abbe-ee84205f0477,Distribution Outside,emp_length,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+795,8e77439e-8f71-4f8a-9e70-c15aafd62fad,Distribution Inside,annual_inc,percent,2012-04-30 00:00:00+00,396,N/A,0,,9,1
+796,183ddd27-3986-415a-bb75-36de4ab0eb81,Distribution Outside,annual_inc,percent,2012-04-30 00:00:00+00,4,N/A,0,,10,1
+797,4788320f-8733-488d-a332-5ca524e0fb8e,Distribution Inside,dti,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+798,cfaf1705-d160-4ca5-8a1c-fca540f0db92,Distribution Outside,dti,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+799,7f828308-b502-4bc8-9ab7-c40591949218,Distribution Inside,open_acc,percent,2012-04-30 00:00:00+00,397,N/A,0,,9,1
+800,e6bcfac8-f95e-446f-9b51-40c526f3d74c,Distribution Outside,open_acc,percent,2012-04-30 00:00:00+00,3,N/A,0,,10,1
+801,81cbf5ac-a879-445b-b1cb-6dbb3423b002,Distribution Inside,pub_rec,percent,2012-04-30 00:00:00+00,387,N/A,0,,9,1
+802,2ea861cf-53a4-4309-806d-0529b293ae32,Distribution Outside,pub_rec,percent,2012-04-30 00:00:00+00,13,N/A,0,,10,1
+803,8a3799fa-0a99-4d38-990c-1751f8679c83,Distribution Inside,revol_bal,percent,2012-04-30 00:00:00+00,393,N/A,0,,9,1
+804,a82cbb60-d16f-4b59-bca5-0cf08f1f3f8a,Distribution Outside,revol_bal,percent,2012-04-30 00:00:00+00,7,N/A,0,,10,1
+805,54ef4e4a-88b6-46b7-9945-3a1caf3b963e,Distribution Inside,revol_util,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+806,3eaf8f47-f706-453c-9389-5b1d41cc927d,Distribution Outside,revol_util,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+807,168c7620-62e0-4ea6-9261-7add3926635e,Distribution Inside,total_acc,percent,2012-04-30 00:00:00+00,396,N/A,0,,9,1
+808,9dec6850-f2a4-4f69-a86e-eca1dd45f545,Distribution Outside,total_acc,percent,2012-04-30 00:00:00+00,4,N/A,0,,10,1
+809,99ac388f-7827-4b54-891e-d2da079f646c,Distribution Inside,mort_acc,percent,2012-04-30 00:00:00+00,394,N/A,0,,9,1
+810,b9301e07-02e0-410c-8e24-007112f9f44c,Distribution Outside,mort_acc,percent,2012-04-30 00:00:00+00,6,N/A,0,,10,1
+811,7a449749-52cd-4eb4-9f57-1f4a70079428,Distribution Inside,pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,390,N/A,0,,9,1
+812,d6336ba8-67cd-4d48-9985-11d2133385b6,Distribution Outside,pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,10,N/A,0,,10,1
+813,510ee68d-ea09-42d8-8e83-9f2598df3cf0,Distribution Inside,fico_score,percent,2012-04-30 00:00:00+00,398,N/A,0,,9,1
+814,1fac844a-1575-476c-b411-ef6bc93c6859,Distribution Outside,fico_score,percent,2012-04-30 00:00:00+00,2,N/A,0,,10,1
+815,c3f6c89e-1f76-497a-8d2f-e236be959360,Distribution Inside,month_of_year,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+816,eb2fd15b-91b3-4ce2-885e-ecccfedc462a,Distribution Outside,month_of_year,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+817,0c5688d4-f54b-4dd2-87e8-be984b657480,Distribution Inside,ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+818,695824d5-c6b3-45ce-bf15-e487c925ea01,Distribution Outside,ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+819,252357d6-7053-4bfd-88bf-a2a91cfbe0a8,Distribution Inside,ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,400,N/A,0,,9,1
+820,d3f0ad53-66bb-458b-9917-976687dfa7ff,Distribution Outside,ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,10,1
+821,6904b87e-acc0-4e2a-a3ce-b21f0cc06305,Distribution Inside,month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,393,N/A,0,,9,1
+822,4cc49b32-2aae-4cee-bbeb-e81a08b68eba,Distribution Outside,month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,7,N/A,0,,10,1
+823,493b29f3-37f6-42f4-9690-64e479a6f52f,Distribution Inside,ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,389,N/A,0,,9,1
+824,554c9ba3-6b86-4aac-a249-1bdca535d28b,Distribution Outside,ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,11,N/A,0,,10,1
+825,c459e26a-e718-48cf-97b8-e3ccfdb48a37,Distribution Inside,ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,392,N/A,0,,9,1
+826,14d7833b-a08b-4746-9c17-573f2b5b01f8,Distribution Outside,ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,8,N/A,0,,10,1
+827,4db7fe2d-e25d-4270-a0c9-91042150bea4,Distribution Inside,ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,390,N/A,0,,9,1
+828,478a802f-2eeb-4687-bad7-5fe03e8d1635,Distribution Outside,ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,10,N/A,0,,10,1
+829,583023d1-1473-498f-bdf3-b44f2e6d9685,Number of Evaluated Constraint Violations (Lower),loan_amnt,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+830,ee85c0d5-39e1-47e8-9f8b-544e5fd04756,Number of Evaluated Constraint Violations (Upper),loan_amnt,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+831,ca7ecde4-302e-49ba-8615-3bd68de776aa,Number of Evaluated Constraint Violations (Lower),term,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+832,62d34c4a-1271-410e-af7e-2037fdc237b1,Number of Evaluated Constraint Violations (Upper),term,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+833,22db51b5-07b6-4be1-b525-2b3377173411,Number of Evaluated Constraint Violations (Lower),int_rate,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+834,b6095e64-2574-41d4-964f-98f9581eac47,Number of Evaluated Constraint Violations (Upper),int_rate,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+835,9cb3ba8a-9c9e-443f-9145-094ae0eeaa4e,Number of Evaluated Constraint Violations (Lower),installment,percent,2012-04-30 00:00:00+00,2,N/A,0,,11,1
+836,8343c973-93d1-4b83-8400-39aff13836e2,Number of Evaluated Constraint Violations (Upper),installment,percent,2012-04-30 00:00:00+00,1,N/A,0,,12,1
+837,1eeecf56-7ee6-4ac4-8768-c4d27fe59af3,Number of Evaluated Constraint Violations (Lower),sub_grade,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+838,f529e765-6463-42d0-9709-35a3279fba44,Number of Evaluated Constraint Violations (Upper),sub_grade,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+839,1849dd2f-1e4b-49c1-9932-5a962e72f0a5,Number of Evaluated Constraint Violations (Lower),emp_length,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+840,619270a5-027d-46cb-bec1-ad7c6da36cb1,Number of Evaluated Constraint Violations (Upper),emp_length,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+841,bd44acd6-5d33-4c01-8e9e-b7746f85003b,Number of Evaluated Constraint Violations (Lower),annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+842,acc05d66-a8ea-46dc-963a-787a73455363,Number of Evaluated Constraint Violations (Upper),annual_inc,percent,2012-04-30 00:00:00+00,2,N/A,0,,12,1
+843,0196c7b3-496f-442f-9976-ce722ec8eaa3,Number of Evaluated Constraint Violations (Lower),dti,percent,2012-04-30 00:00:00+00,1,N/A,0,,11,1
+844,8b2d1e11-66c1-4c57-a4a5-3667e5fac598,Number of Evaluated Constraint Violations (Upper),dti,percent,2012-04-30 00:00:00+00,2,N/A,0,,12,1
+845,660e5015-6573-471e-8397-80661adb5d26,Number of Evaluated Constraint Violations (Lower),open_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+846,898a759b-bd0d-4c7e-a5ab-4fa8d7ae61b0,Number of Evaluated Constraint Violations (Upper),open_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+847,436267cd-f149-4a89-9da5-0a44ec47a664,Number of Evaluated Constraint Violations (Lower),pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+848,5e83b7c1-cdf1-4993-8204-2f3fda4ceaec,Number of Evaluated Constraint Violations (Upper),pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+849,a9a25094-fa23-4453-ad3b-b971be4e4222,Number of Evaluated Constraint Violations (Lower),revol_bal,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+850,bd4f823f-08e9-408d-8828-cb28f4950f4f,Number of Evaluated Constraint Violations (Upper),revol_bal,percent,2012-04-30 00:00:00+00,1,N/A,0,,12,1
+851,c307d6e6-093a-4cf9-94fa-5a13556c6039,Number of Evaluated Constraint Violations (Lower),revol_util,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+852,951c32e9-c921-45ee-9d04-41ad087eb81f,Number of Evaluated Constraint Violations (Upper),revol_util,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+853,05be5178-ab8a-447b-87fa-e263fceaa02d,Number of Evaluated Constraint Violations (Lower),total_acc,percent,2012-04-30 00:00:00+00,1,N/A,0,,11,1
+854,65761674-cda3-48c8-b929-ab21ef394d8b,Number of Evaluated Constraint Violations (Upper),total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+855,ef34a53b-adbe-4391-810f-16f7e4fd9eeb,Number of Evaluated Constraint Violations (Lower),mort_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+856,06ce0de3-7c26-4dce-b94f-64b343a36e5a,Number of Evaluated Constraint Violations (Upper),mort_acc,percent,2012-04-30 00:00:00+00,1,N/A,0,,12,1
+857,88cdb5bd-92ae-4938-8944-a8921c3d143d,Number of Evaluated Constraint Violations (Lower),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+858,2f7d5fcf-0a06-4da4-911d-7d4897d99905,Number of Evaluated Constraint Violations (Upper),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+859,b4668479-b874-4831-8c2f-baa8bb00afb9,Number of Evaluated Constraint Violations (Lower),fico_score,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+860,dc8dcf8a-8ef4-47ed-bb2b-8500395658d6,Number of Evaluated Constraint Violations (Upper),fico_score,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+861,9622c3af-2b55-4804-8a72-f6af923a9254,Number of Evaluated Constraint Violations (Lower),month_of_year,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+862,37fd6aca-4657-44cc-9c77-2f929413431c,Number of Evaluated Constraint Violations (Upper),month_of_year,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+863,5acb4c2b-b2bc-446e-9b2b-1ccda4c91a58,Number of Evaluated Constraint Violations (Lower),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+864,1efde1d5-0215-412e-897c-4e044562bef8,Number of Evaluated Constraint Violations (Upper),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+865,7d24d22f-48b7-448e-a4e0-ec5f054154d7,Number of Evaluated Constraint Violations (Lower),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+866,86dc473e-547c-4bf1-8635-7e9c32e104ba,Number of Evaluated Constraint Violations (Upper),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+867,7d55a8c4-5c2c-43b6-b2b3-707400646143,Number of Evaluated Constraint Violations (Lower),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+868,6318b533-6e8f-4bee-801e-ed9d9552a9ff,Number of Evaluated Constraint Violations (Upper),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,1,N/A,0,,12,1
+869,6dfacb0a-d77d-478c-a714-612ee2693bfc,Number of Evaluated Constraint Violations (Lower),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+870,f2c0c31e-7118-4928-92e0-d440b4cbb0f3,Number of Evaluated Constraint Violations (Upper),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,1,N/A,0,,12,1
+871,98a6587f-0e92-4032-85f9-3f77dcafcaa9,Number of Evaluated Constraint Violations (Lower),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+918,ae6eaf89-0b1f-4270-9562-5884b3b98482,Number of Reference Constraint Violations (Upper),fico_score,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+872,bd578b8f-5bfb-4443-a171-ab42a91bc6f8,Number of Evaluated Constraint Violations (Upper),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,1,N/A,0,,12,1
+873,d2d9f220-9bc1-49ac-9778-35468f56dafb,Number of Evaluated Constraint Violations (Lower),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,11,1
+874,99a58f59-7b91-4b9a-8a14-07250e134d55,Number of Evaluated Constraint Violations (Upper),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,12,1
+875,44007546-c88f-47a7-a6c5-f7631ab23031,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,37,13,1
+876,2cac8f28-b251-4e92-84c7-86bbfc7ab8a9,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,39,13,1
+877,a596acd2-bb17-4d40-a3fd-276fbdd29e07,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,41,13,1
+878,82ce12f5-7fd8-4a68-adbe-884328d79646,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,48,13,1
+879,eeb7cd0e-771a-45a6-8b39-30b70bcde64c,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,49,13,1
+880,0d438e1d-4281-4f39-a088-d46fce44dc95,Number of Missing Category Instances in Test Data,"",percent,2012-04-30 00:00:00+00,0,N/A,0,,14,1
+881,1e3977e6-3668-4950-b2cf-d5d4f070cf0c,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,37,15,1
+882,c2cb56d3-9d66-4701-abbd-4a3ca5a5825f,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,39,15,1
+883,9eb0af11-2753-4aee-8489-cdb56ac799ba,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,41,15,1
+884,6bf39897-0710-40ad-879b-ae1b35131616,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,48,15,1
+885,3b300d63-65db-41e5-bb41-66c9eb9a80df,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0,N/A,0,49,15,1
+886,d8e181b8-e987-4bab-bb89-81261044da68,Number of New Category Instances in Test Data,"",percent,2012-04-30 00:00:00+00,0,N/A,0,,16,1
+887,bb564703-cafa-42bf-8557-876a5b834c47,Number of Reference Constraint Violations (Lower),loan_amnt,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+888,c903d9a7-1308-4c2a-b777-17857818fe10,Number of Reference Constraint Violations (Upper),loan_amnt,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+889,2c08f8bc-9b18-45f8-be07-68fe4037bde6,Number of Reference Constraint Violations (Lower),term,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+890,053fd6b9-c447-43b2-93ea-bb78e1ef1474,Number of Reference Constraint Violations (Upper),term,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+891,3e4bc3d1-ce60-45fb-8e53-6be4e5044e0c,Number of Reference Constraint Violations (Lower),int_rate,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+892,4ab58f74-30ba-4cf9-ab3b-570004297c4b,Number of Reference Constraint Violations (Upper),int_rate,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+893,a92d99e7-cc49-4a8f-9e08-e0a36d252485,Number of Reference Constraint Violations (Lower),installment,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+894,fc5aaf23-8fb9-4eca-b14b-b056fbb152b4,Number of Reference Constraint Violations (Upper),installment,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+895,d86113fd-6ebf-4114-b3c9-9d7f0f920359,Number of Reference Constraint Violations (Lower),sub_grade,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+896,c41522cb-5a87-4275-8bf7-13cd009e8f1a,Number of Reference Constraint Violations (Upper),sub_grade,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+897,282b89ff-3b92-45e6-8925-1144f734bb4e,Number of Reference Constraint Violations (Lower),emp_length,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+898,371105d4-b41b-477b-a24f-ca81a09d1303,Number of Reference Constraint Violations (Upper),emp_length,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+899,03611ed3-602d-42c1-bc9d-748f9544ba06,Number of Reference Constraint Violations (Lower),annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+900,b2acf56e-d25e-433e-9626-88e23bab1bc4,Number of Reference Constraint Violations (Upper),annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+901,2d7d1841-4f87-4945-95f6-b25b369fc45d,Number of Reference Constraint Violations (Lower),dti,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+902,874c37bf-7021-4e32-9ecf-8369f5bc5d7c,Number of Reference Constraint Violations (Upper),dti,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+903,0928da67-6b54-4a45-bdbe-686df6259db6,Number of Reference Constraint Violations (Lower),open_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+904,d818ca1b-619a-41d4-9b11-dd3540fe8314,Number of Reference Constraint Violations (Upper),open_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+905,177c2f2f-7016-4091-afba-b683ccd56a67,Number of Reference Constraint Violations (Lower),pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+906,edcb319b-b08f-4a49-95cf-4118e270ead8,Number of Reference Constraint Violations (Upper),pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+907,079d8029-6acd-4129-8597-b960c11b3797,Number of Reference Constraint Violations (Lower),revol_bal,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+908,76ecdf0b-81da-4439-b2b0-b14f12e6bd1a,Number of Reference Constraint Violations (Upper),revol_bal,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+909,ed289f20-6ee3-4faa-aca8-8eee4aca5e70,Number of Reference Constraint Violations (Lower),revol_util,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+910,5f01955b-bf0e-44f4-aa06-d5bf717860f3,Number of Reference Constraint Violations (Upper),revol_util,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+911,a55fce8e-bcdf-4de2-bc95-4feb7a14b289,Number of Reference Constraint Violations (Lower),total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+912,fa13ebf7-726c-47be-92a5-c9d9d1d9081f,Number of Reference Constraint Violations (Upper),total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+913,59ea1914-2564-4b37-8b9e-53c84cf7afdc,Number of Reference Constraint Violations (Lower),mort_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+914,d899fc11-eeca-4cfd-95da-c2381a51628e,Number of Reference Constraint Violations (Upper),mort_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+915,0188004b-9ef9-4c5d-b68f-c12eab80b78a,Number of Reference Constraint Violations (Lower),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+916,eb77f81e-faa3-49dd-8a76-3e5f3abc12e0,Number of Reference Constraint Violations (Upper),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+917,c596b167-05e2-4a12-96fd-33fc9e390b16,Number of Reference Constraint Violations (Lower),fico_score,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+919,41fefc9e-ec5e-4a38-96f7-f82c17e78b33,Number of Reference Constraint Violations (Lower),month_of_year,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+920,474f5060-1583-4b04-8a3a-cd694351a21e,Number of Reference Constraint Violations (Upper),month_of_year,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+921,7ac91063-6e70-4e94-b363-c6dc0a9125a6,Number of Reference Constraint Violations (Lower),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+922,ced1ce95-6132-4b21-b25b-e1ef95ee416f,Number of Reference Constraint Violations (Upper),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+923,3430e712-a0df-4b48-b905-72ae48e5ce19,Number of Reference Constraint Violations (Lower),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+924,288b1719-eca7-4ce8-9933-a20081f8d0c8,Number of Reference Constraint Violations (Upper),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+925,4f491a06-8d4f-44e8-bb16-e5db61a929f1,Number of Reference Constraint Violations (Lower),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+926,1d85ad4f-0594-4cec-a999-424cadd13f95,Number of Reference Constraint Violations (Upper),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+927,9b6654e4-26f5-40d4-9be8-6f1fabc652cd,Number of Reference Constraint Violations (Lower),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+928,e31d88b8-ba6a-4aeb-875c-8cb6c4c043fd,Number of Reference Constraint Violations (Upper),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+929,27fbadc0-30e1-4759-b87f-8eab1af49bfb,Number of Reference Constraint Violations (Lower),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+930,b2958155-7d10-4715-b5a4-d60e5bde0b04,Number of Reference Constraint Violations (Upper),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+931,e8c9ab46-5eb0-4185-8dd6-f794ee87fad8,Number of Reference Constraint Violations (Lower),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,17,1
+932,effc8a0d-44f4-4401-a590-85d1e49cd17d,Number of Reference Constraint Violations (Upper),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0,N/A,0,,18,1
+933,5c4c4211-1c5f-431f-aa83-14ebf1dd6e11,Confusion Matrix,"(0,0)/(2,2)",percent,2012-04-30 00:00:00+00,338,N/A,0,,19,1
+934,b189e527-6fc4-41cc-8aff-21236e6482cf,Confusion Matrix,"(0,1)/(2,2)",percent,2012-04-30 00:00:00+00,0,N/A,0,,19,1
+935,497ca8d5-3c74-4539-a743-0a072d254c47,Confusion Matrix,"(1,0)/(2,2)",percent,2012-04-30 00:00:00+00,62,N/A,0,,19,1
+936,e28678cf-d70f-45af-9b29-1c5d029d1a4c,Confusion Matrix,"(1,1)/(2,2)",percent,2012-04-30 00:00:00+00,0,N/A,0,,19,1

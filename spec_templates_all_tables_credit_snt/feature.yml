@@ -19,6 +19,6 @@ columns:
   # max_value: type=FLOAT; REQUIRED
   max_value: { from: "max_value" }
   # date_id: type=INTEGER; REQUIRED; FK→datashape.id
-  date_id: { from: "<CSV_date_id>" }
+  date_id: { from: "datashape_id" }
   # features_id: type=INTEGER; REQUIRED; FK→datashape.id
-  features_id: { from: "<CSV_features_id>" }
+  features_id: { from: "datashape_id" }
