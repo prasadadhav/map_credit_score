@@ -59,3 +59,4 @@ id,pid,name,description,feature_type,min_value,max_value,datashape_id
 88,74fa58e2-1038-413c-9dc8-df066a579fec,ratio_pub_rec_bankruptcies_pub_rec,,Float,-1.0,1.0,1
 89,ffb55d37-1522-44ef-97a9-ff3bfe8449f1,charged_off,,Categorical,0.0,1.0,1
 90,4eeb6569-71bc-4154-9b7a-36b92a1f6e46,issue_d,,Categorical,0.0,0.0,1
+9999,aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,Generic ML Metrics,,Float,0.0,1.0,9999

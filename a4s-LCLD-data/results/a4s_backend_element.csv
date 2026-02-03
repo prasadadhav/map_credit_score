@@ -62,3 +62,4 @@ id,name,description,project_id,type_spec
 88,ratio_pub_rec_bankruptcies_pub_rec,Credit score feature,1,feature
 89,charged_off,Credit score feature,1,feature
 90,issue_d,Credit score feature,1,feature
+9999,Generic ML Metrics,Credit score metric,1,feature
