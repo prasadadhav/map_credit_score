@@ -1,0 +1,937 @@
+id,pid,name,description,unit,time,score,error,uncertainty,feature_id,metric_id,observation_id
+1,3b18f21e-2595-4233-825c-0cf0777558d6,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,622.3718112244899,0,0,31,1,2
+2,a4857ef4-4b1d-4137-a5b2-246eb6ee9d5a,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.0318367346938792,0,0,32,1,2
+3,e39c6561-1c6d-47f7-bdca-748180db7b22,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.6847520408163266,0,0,33,1,2
+4,e725744f-6fa4-42ab-b0ba-156c48c21e0e,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,18.683934183673472,0,0,34,1,2
+5,dd07bd82-fefc-4486-b956-77ee614d520b,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,1.0697959183673469,0,0,35,1,2
+6,93b0c85a-5822-474b-babf-094bb73b619d,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.3962755102040814,0,0,36,1,2
+7,76cb4159-53fa-41f1-bb03-33af0d669a78,jensenshannon,jensenshannon,percent,2012-04-07 00:00:00+00,0.0286850217026368,0,0,37,2,2
+8,76d1c3ec-1291-423a-a9f5-df34d92c312b,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,7947.651956122454,0,0,38,1,2
+9,4569f153-9d32-4052-8aca-b587ed145310,jensenshannon,jensenshannon,percent,2012-04-07 00:00:00+00,0.016427587,0,0,39,2,2
+10,4c62b608-0748-47c9-8afc-583b108b5b06,jensenshannon,jensenshannon,percent,2012-04-07 00:00:00+00,0.1641205278368004,0,0,41,2,2
+11,9fa9e619-7f83-4a6a-9b2c-ae49316550d9,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.7190477040816325,0,0,42,1,2
+12,bce644c2-9f72-4277-9450-419433345946,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.6547193877551016,0,0,43,1,2
+13,d8a79447-63a0-43f0-b1e5-39dc7f9a00a4,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.003137755,0,0,44,1,2
+14,069b3868-9e2d-4b14-9243-044f0f30fb00,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,1452.299974489796,0,0,45,1,2
+15,425d1c18-ae1b-4471-8b72-cefcaeff462d,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,1.8079540816326536,0,0,46,1,2
+16,f12c2bdf-c265-48fb-808b-853a3e2b4949,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,1.1211734693877546,0,0,47,1,2
+17,4462fc0f-815e-4902-a2d4-452111a7abc7,jensenshannon,jensenshannon,percent,2012-04-07 00:00:00+00,0.0,0,0,48,2,2
+18,a8215b84-6a50-4db8-851e-c9f3893bb5d6,jensenshannon,jensenshannon,percent,2012-04-07 00:00:00+00,0.0,0,0,49,2,2
+19,e2aa4f89-171b-4945-b928-7262629dece3,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.15497449,0,0,50,1,2
+20,f7397122-8dd2-47fa-a995-7a779bf03ec5,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.000637755,0,0,51,1,2
+21,ad963a9b-6ee2-40e3-a023-a80286f5ccd4,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,6.648596938775511,0,0,52,1,2
+22,32ef98e8-2b4c-45fa-b3dc-c877f20cd263,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.77375,0,0,53,1,2
+23,de5f7f3d-f67e-4edf-adef-aa5f63766253,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.019025719634503,0,0,54,1,2
+24,d83c5433-3886-4aac-ad85-3b3b24cb0ce5,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.0238668672257883,0,0,55,1,2
+25,457fc832-7fa2-41b7-9b39-222825dbe905,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,14.50160714285714,0,0,56,1,2
+26,159a5b7c-5c99-4dc9-986c-8c33529b00f9,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,3.2195421543357376e-05,0,0,57,1,2
+27,5d879f65-8173-4330-8b76-a1c59057f555,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,2.381903606404415e-05,0,0,58,1,2
+28,142704f6-4f2b-4ac3-9b2d-fdb72b4e304e,wasserstein_distance,wasserstein,percent,2012-04-07 00:00:00+00,0.00377551,0,0,59,1,2
+29,ca27271f-30a6-4c8c-abdd-de46a708d0e3,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,589.2646683673468,0,0,31,1,3
+30,07b8b7d3-5292-4cc9-bfb6-6e5e2c11bde9,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.276734694,0,0,32,1,3
+31,0929ed10-a7c8-4427-bbf2-cd96d3c11c68,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.4984295918367347,0,0,33,1,3
+32,6e9394b2-fa2c-43e1-82d3-c9d0fa01b8bd,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,17.744646938775517,0,0,34,1,3
+33,23067202-7428-4f7d-8ca2-e0ff7cdbde7a,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.7566836734693878,0,0,35,1,3
+34,7d711810-4dce-4db3-a8d1-28af43feda17,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.2750510204081631,0,0,36,1,3
+35,17067a90-974d-4b13-9e4a-821b6bce42b2,jensenshannon,jensenshannon,percent,2012-04-08 00:00:00+00,0.021121085,0,0,37,2,3
+36,b6eade13-12b3-4c6d-9042-747c0180eadf,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,8812.587826,0,0,38,1,3
+37,8fb4ef61-2020-4139-a3b8-a0eaa78f188c,jensenshannon,jensenshannon,percent,2012-04-08 00:00:00+00,0.031322936,0,0,39,2,3
+38,e1c64043-b5c7-49c2-a156-c2a5fbb823f2,jensenshannon,jensenshannon,percent,2012-04-08 00:00:00+00,0.1848613593305543,0,0,41,2,3
+39,aef75632-3987-4991-9edb-4ff66e4193ec,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.8944512755102041,0,0,42,1,3
+40,d3af921c-d881-43af-875e-bfdae8e51a09,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.5092091836734689,0,0,43,1,3
+41,72bc067a-4a41-4ec6-912f-e0fdbb6c524e,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.003137755,0,0,44,1,3
+42,f8b1f47c-d183-4a68-b937-b34969f1597f,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,1368.1625255102044,0,0,45,1,3
+43,c528d4c1-113c-414b-ad49-af49228e0a32,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,1.5916071428571423,0,0,46,1,3
+44,00d0a5fc-a66c-424e-8d0b-b27ab9aef2fe,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,1.585561224489796,0,0,47,1,3
+45,0321fca7-4737-44fb-8954-6b404d383801,jensenshannon,jensenshannon,percent,2012-04-08 00:00:00+00,0.0,0,0,48,2,3
+46,be11540a-651e-4a00-a2d1-39e42043d6d7,jensenshannon,jensenshannon,percent,2012-04-08 00:00:00+00,0.0,0,0,49,2,3
+47,5db5e46e-505b-47ff-a797-abcafddd32ba,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.1345663265306118,0,0,50,1,3
+48,2f28825f-c53a-4123-a7c5-664e30e701b1,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.000637755,0,0,51,1,3
+49,74bdd220-d5fa-48fe-8dec-9fa20fd9db84,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,7.952423469387755,0,0,52,1,3
+50,077fd9ab-9417-4c99-b6e4-d9d729f79617,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.77375,0,0,53,1,3
+51,a2b3b07b-40da-4e83-88dc-686d24609d1f,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.013225898907905,0,0,54,1,3
+52,919b1386-94e0-495e-99a6-63b9f430b390,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.0228294786595482,0,0,55,1,3
+53,69b57082-9ba4-4675-bd95-7c9f09ba8c74,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,17.390127551020406,0,0,56,1,3
+54,daf0a26a-ee73-4064-8199-c59da8961db0,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,3.2195421543357376e-05,0,0,57,1,3
+55,26df8263-e708-48b9-8754-e839727ae610,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,2.381903606404415e-05,0,0,58,1,3
+56,c2ea9746-a018-4091-bced-2b228d837d57,wasserstein_distance,wasserstein,percent,2012-04-08 00:00:00+00,0.00377551,0,0,59,1,3
+57,2f827505-c1ef-4ef2-9ce1-6d4118955949,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,425.0401785714288,0,0,31,1,4
+58,43c030da-21dc-48cf-8757-6d1f6a77e8f9,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.7665306122449005,0,0,32,1,4
+59,2ba5272f-6199-449b-bee3-88014f9370d3,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.3807765306122448,0,0,33,1,4
+60,0e45bedc-a2cd-4b29-84c1-a48d55f2d4b9,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,14.053191326530628,0,0,34,1,4
+61,892d848a-6cf9-4aeb-86cf-6fdbb05d766b,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.6088775510204079,0,0,35,1,4
+62,0500fa28-ffdf-4ea1-a8ac-5c627f4d033d,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.2304591836734692,0,0,36,1,4
+63,efd054a6-1260-4a75-b362-70967efb53d5,jensenshannon,jensenshannon,percent,2012-04-09 00:00:00+00,0.043767278,0,0,37,2,4
+64,1f81f1a8-0556-42ad-aa5f-91f0027a91c8,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,8382.603152551026,0,0,38,1,4
+65,e87fea31-1feb-4268-94a0-906c3f8d9d4d,jensenshannon,jensenshannon,percent,2012-04-09 00:00:00+00,0.055649834,0,0,39,2,4
+66,523b3991-82e2-48a4-96e0-40fbdd7e4b5f,jensenshannon,jensenshannon,percent,2012-04-09 00:00:00+00,0.2095932847010677,0,0,41,2,4
+67,7e27ee79-45b8-4dbb-a5ff-afbc639e01e0,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.6337875000000002,0,0,42,1,4
+68,1b49d0a6-febb-4bc0-8a91-d786ab0b0973,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.4403316326530608,0,0,43,1,4
+69,b64236ab-14cf-484d-8bbc-902ac13448cc,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.003137755,0,0,44,1,4
+70,3ef30cc0-d8af-4599-86cc-4975ca857b37,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,1472.324719387756,0,0,45,1,4
+71,2e559dd3-2859-4e96-a45d-29f4922b08c8,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,2.010683673469387,0,0,46,1,4
+72,4f5a4543-5854-48b9-84d8-d918571e5225,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,1.9763265306122448,0,0,47,1,4
+73,95b50657-1fc7-4ed4-ac4d-25fcac087d8f,jensenshannon,jensenshannon,percent,2012-04-09 00:00:00+00,0.0,0,0,48,2,4
+74,41a24821-9621-4e1f-bc15-08dc00180c9f,jensenshannon,jensenshannon,percent,2012-04-09 00:00:00+00,0.0,0,0,49,2,4
+75,aa036c9b-93e3-4aa1-9cd0-e6fa46b7284e,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.1409438775510201,0,0,50,1,4
+76,8d188ab7-5903-4b23-830b-72d76046f6e1,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.000637755,0,0,51,1,4
+77,355c69b8-b913-435b-8ac8-aae5b7dc606e,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,6.917474489795921,0,0,52,1,4
+78,a37938b2-61a5-4c6b-bc49-13293d4a03bb,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.77375,0,0,53,1,4
+79,f8e005dc-1269-40ea-ac7a-fed5a20cedc5,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.013167136,0,0,54,1,4
+80,6b1deacc-41d1-4003-82d6-c32cf43d59be,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.041651928,0,0,55,1,4
+81,d625bdcb-84ce-4e4d-86a7-11eb887ea93d,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,15.610739795918365,0,0,56,1,4
+82,fe8d3eef-cca8-4895-9ad0-60d5dab2addb,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,3.2195421543357376e-05,0,0,57,1,4
+83,7abb72ce-c55f-4547-9198-eea7bb5ab4d3,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,2.381903606404415e-05,0,0,58,1,4
+84,b1a0ac3a-4a21-4e96-b82d-912edfaf1412,wasserstein_distance,wasserstein,percent,2012-04-09 00:00:00+00,0.00377551,0,0,59,1,4
+85,37e42a61-8cdc-4ea7-b3cd-9a86910c62e3,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,636.9955357142856,0,0,31,1,5
+86,9c2be539-0a07-4019-a3f6-373a0ce38f7a,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.0318367346938792,0,0,32,1,5
+87,2a42b4b0-675e-4825-a342-0266007260aa,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.4299433673469386,0,0,33,1,5
+88,78526f17-2ec2-4ab4-b890-f65aee28a167,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,15.573485204081647,0,0,34,1,5
+89,0306fb99-c7bb-4889-a27c-ab9df6b71958,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.6336224489795914,0,0,35,1,5
+90,d4cce326-8393-4869-98bf-299b26209031,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.1629591836734694,0,0,36,1,5
+91,9bebe46d-f320-4c6f-b8e7-d1fa26e5d511,jensenshannon,jensenshannon,percent,2012-04-10 00:00:00+00,0.072414435,0,0,37,2,5
+92,63f53691-3393-4d50-82a4-d38a5a265c52,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,9838.727917857152,0,0,38,1,5
+93,4eb2e3b8-ec00-4829-ab18-f096b3ae8733,jensenshannon,jensenshannon,percent,2012-04-10 00:00:00+00,0.065785655,0,0,39,2,5
+94,f660fbb4-55de-4234-8600-d6f6ec8d2307,jensenshannon,jensenshannon,percent,2012-04-10 00:00:00+00,0.2162423462074858,0,0,41,2,5
+95,b9e64822-a805-40b3-ae7c-c37a4a44aeee,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.7338910714285716,0,0,42,1,5
+96,90296a9e-fd99-4c26-a3ea-44612539515c,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.6331887755102038,0,0,43,1,5
+97,9f4c809e-377e-4078-b8bf-81b5c9d3ed07,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.0133418367346938,0,0,44,1,5
+98,58062997-5a32-4ad6-b7e0-a74426648279,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,1547.940229591837,0,0,45,1,5
+99,9871ecef-6e1a-420a-9015-fc7543d97f0e,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,1.933260204081632,0,0,46,1,5
+100,7c18c58b-198d-4c16-8322-01ab332d00a1,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,1.3838775510204084,0,0,47,1,5
+101,491a2ab8-1903-47c3-b90d-671441e984ba,jensenshannon,jensenshannon,percent,2012-04-10 00:00:00+00,0.0,0,0,48,2,5
+102,53a01068-899e-4d0a-9384-2a8db5fc865d,jensenshannon,jensenshannon,percent,2012-04-10 00:00:00+00,0.0,0,0,49,2,5
+103,a3b4aaca-75ff-48ab-a63c-121f507085ca,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.2155357142857139,0,0,50,1,5
+104,6484c91c-fe1b-4c3e-b649-ef1ad02f500a,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.0108418367346938,0,0,51,1,5
+105,0576f84e-3dfa-40e2-b877-9eeaa484f9e3,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,6.932015306,0,0,52,1,5
+106,6523da4e-e857-4708-8cb7-1886e29c0116,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.77375,0,0,53,1,5
+107,173c6f5d-fddf-4b63-b393-4bf63082d73a,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.0140182575664913,0,0,54,1,5
+108,df04ee73-dced-4cc4-967a-1e18dd01eec1,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.038097633,0,0,55,1,5
+109,018b151d-e081-4887-80d2-03872203cea1,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,15.560586734693876,0,0,56,1,5
+110,5ec5d1c4-b708-44dc-804a-4a0c516aa87d,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,6.895007118372067e-05,0,0,57,1,5
+111,53452842-d5d5-48cc-bd1a-03ab41617619,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,5.722145993816388e-05,0,0,58,1,5
+112,9d8b9241-22bc-448d-80e4-c1ded26548c6,wasserstein_distance,wasserstein,percent,2012-04-10 00:00:00+00,0.0241836734693876,0,0,59,1,5
+113,a9243316-1c43-4b6b-aa96-8d1173fc8096,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,733.2329253,0,0,31,1,6
+114,dd424208-8347-4c5c-b975-25afd6654394,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.4812371134020639,0,0,32,1,6
+115,645151bc-a59f-4248-9ae9-66b5e1c4e02a,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.4279551546391751,0,0,33,1,6
+116,6edf5d42-2bd2-46a9-b2a9-b404eeaff754,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,19.85574974226804,0,0,34,1,6
+117,cebf3a4d-093f-42fc-b4c1-5dd57b6a60e5,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.7055927835051544,0,0,35,1,6
+118,86449218-bf7f-4948-867b-745af9290533,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.2461597938144331,0,0,36,1,6
+119,474c5417-1cef-460a-aae1-3719fed54b70,jensenshannon,jensenshannon,percent,2012-04-11 00:00:00+00,0.06038827,0,0,37,2,6
+120,f9a770fa-c68e-4bd5-9d5d-46e42e59fdbc,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,11913.93333685566,0,0,38,1,6
+121,affe6749-8c40-44b4-acaf-933b6a53d7c8,jensenshannon,jensenshannon,percent,2012-04-11 00:00:00+00,0.090978105,0,0,39,2,6
+122,18d9d54b-3529-4a3a-9f0f-6d6e2d134a01,jensenshannon,jensenshannon,percent,2012-04-11 00:00:00+00,0.227923871542807,0,0,41,2,6
+123,380868fd-6e60-49b7-912e-c3e680e141e6,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.6265078608247423,0,0,42,1,6
+124,93e59ee4-63e9-4b85-886b-8f2a0f985b0e,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.8597293814432985,0,0,43,1,6
+125,e8b5ef91-3fef-4f8e-8723-09b7bab10148,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.002822165,0,0,44,1,6
+126,df8e64d2-4141-48f3-b385-16cc6f13afde,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,1912.481791237111,0,0,45,1,6
+127,2c5a2229-1999-44ad-a408-4906602a8908,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,2.467363402061855,0,0,46,1,6
+128,c5a1b039-4102-4163-b346-97e13b865b16,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,1.7771649484536085,0,0,47,1,6
+129,4481a4bf-b180-4217-aeff-dd1eec2613ab,jensenshannon,jensenshannon,percent,2012-04-11 00:00:00+00,0.0,0,0,48,2,6
+130,206fe92b-8c6c-431b-80a7-daeeb4d2ad6e,jensenshannon,jensenshannon,percent,2012-04-11 00:00:00+00,0.0,0,0,49,2,6
+131,43189ff6-3a56-4f13-b158-64e05035d54f,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.3085953608247419,0,0,50,1,6
+132,a2117c3f-d7d4-47bf-a542-f8eb154ed2e4,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.000322165,0,0,51,1,6
+133,e84d81d0-19f8-4d1e-9a92-d5d1327fbeef,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,4.861404639,0,0,52,1,6
+134,8e8f10e4-2e38-4b8d-a02e-bda1a2d42f9d,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.77375,0,0,53,1,6
+135,d001cea1-1f0f-4d3b-90fc-1ffa3be4fd73,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.0153828796106765,0,0,54,1,6
+136,fb67af3d-80d4-4781-a450-5548708cc6ca,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.039898003,0,0,55,1,6
+137,5435e79c-f93a-49b5-b273-b4529236d13b,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,16.561043814432985,0,0,56,1,6
+138,6fc6f895-a629-4b57-846d-2404b361e13f,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,4.318540199997325e-05,0,0,57,1,6
+139,6cd4a1ef-9514-4181-8748-4deda7eb1003,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,3.164904652811667e-05,0,0,58,1,6
+140,3572a05a-cca1-423a-9d8d-300648b92019,wasserstein_distance,wasserstein,percent,2012-04-11 00:00:00+00,0.00314433,0,0,59,1,6
+141,e87e1a71-cfa8-44ad-89d9-f04c9014bdfa,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,767.4479166666665,0,0,31,1,7
+142,a42b47a1-7352-4db5-aac4-77892aa11ce2,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.9400000000000004,0,0,32,1,7
+143,e252f6d9-6e2e-4849-84bd-b65b96203d93,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.4810124999999998,0,0,33,1,7
+144,688b30fa-c6c2-41c4-9b27-d396ee2d596c,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,19.63945833333333,0,0,34,1,7
+145,2e39ebee-5d2e-435e-8b53-24700ece4050,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.7379166666666663,0,0,35,1,7
+146,3513b264-b001-4eba-9efe-0bd1d60f740e,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.3633333333333335,0,0,36,1,7
+147,3518926c-bad3-4369-a79e-d01bdaf1b5ef,jensenshannon,jensenshannon,percent,2012-04-12 00:00:00+00,0.079537175,0,0,37,2,7
+148,59fdbca2-ae2c-4ef7-b9ff-322a0ff31ace,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,6862.811308333334,0,0,38,1,7
+149,823fe1bd-f3bd-441f-960d-682ee9eea1d5,jensenshannon,jensenshannon,percent,2012-04-12 00:00:00+00,0.083549606,0,0,39,2,7
+150,9f63c121-6ddf-428f-b8a2-902ad6b6eb47,jensenshannon,jensenshannon,percent,2012-04-12 00:00:00+00,0.2261680306381926,0,0,41,2,7
+151,01525e2e-9f5d-4612-b551-0614d561a2bd,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.6940958333333335,0,0,42,1,7
+152,07690daf-a8c5-43ef-8ed4-ce0e44534ad0,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.7854166666666661,0,0,43,1,7
+153,56dd7384-9b49-4343-a3c0-bf569f49e7dc,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.0025,0,0,44,1,7
+154,3abf377f-d051-4e8e-b8c9-4f57600c32e2,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,1733.739583333331,0,0,45,1,7
+155,a56ed6d8-1d96-41d8-8f1e-1dbdd3861ce4,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,3.2709166666666665,0,0,46,1,7
+156,8acd249d-5675-47b9-8d0c-3a3a0432697c,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,1.5833333333333337,0,0,47,1,7
+157,fdc5324b-7d4b-4156-8662-00ce31bab89a,jensenshannon,jensenshannon,percent,2012-04-12 00:00:00+00,0.0,0,0,48,2,7
+158,92707173-2af6-48da-9254-a4385a137667,jensenshannon,jensenshannon,percent,2012-04-12 00:00:00+00,0.0,0,0,49,2,7
+159,227de743-c9da-488a-85cf-588dd382f88b,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.2929166666666664,0,0,50,1,7
+160,578ac1ae-224a-4ec3-acb1-6d517c1dc686,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.0,0,0,51,1,7
+161,fc1e2fb0-5c9d-455f-b446-b69c581f98af,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,3.9562500000000016,0,0,52,1,7
+162,eafb82c8-0905-4011-8e38-da682d277460,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.77375,0,0,53,1,7
+163,cfa57bcc-d197-485c-a8b8-f0f39762ea8a,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.0126431949420759,0,0,54,1,7
+164,42e6f22a-bfcc-4758-abe8-d9ed309f4723,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.042996025,0,0,55,1,7
+165,2e58e36f-cde3-4b36-ac09-4c51cca50a37,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,20.02,0,0,56,1,7
+166,35b7fbaf-b4e7-4cb4-8caf-26114d706461,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,4.180422405831024e-05,0,0,57,1,7
+167,8a8dd0fa-8244-4e01-9069-2f78da5aed52,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,3.0464129688772615e-05,0,0,58,1,7
+168,816f7c50-3bf7-479a-8af0-641a1e3481f3,wasserstein_distance,wasserstein,percent,2012-04-12 00:00:00+00,0.0025,0,0,59,1,7
+169,9b6b9db7-5c57-4b90-a60d-d45d14da3d5c,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,661.7384868421052,0,0,31,1,8
+170,af6b104b-2139-41d2-8c99-965a4d577910,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.6505263157894738,0,0,32,1,8
+171,07c75300-f183-4272-9e68-a7b98be97a0e,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.4146065789473682,0,0,33,1,8
+172,781393cf-32be-4cd0-b90a-0facaaa2cc4c,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,20.557842105263163,0,0,34,1,8
+173,50236b26-f937-418d-95cb-2efbf7678067,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.6602631578947366,0,0,35,1,8
+174,e4bbe71d-ed94-4a72-bdbe-eb702936a961,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.6582894736842106,0,0,36,1,8
+175,930f3d3e-baf4-4941-bc4f-18c2d0bf3b90,jensenshannon,jensenshannon,percent,2012-04-13 00:00:00+00,0.069745867,0,0,37,2,8
+176,abd16357-e7be-4614-8fc0-347add0d64b3,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,7187.660280263154,0,0,38,1,8
+177,eab7e0fa-9dff-4e90-b818-25b1c858d21a,jensenshannon,jensenshannon,percent,2012-04-13 00:00:00+00,0.070568649,0,0,39,2,8
+178,66794f3c-090e-41df-8d8e-03ea47b3bfc2,jensenshannon,jensenshannon,percent,2012-04-13 00:00:00+00,0.1949218040808923,0,0,41,2,8
+179,937da33e-70f6-4ab6-88bf-6abb7d7e205d,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.8829572368421055,0,0,42,1,8
+180,7065ec95-9a51-4434-aefe-538e71514eb2,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.5751973684210523,0,0,43,1,8
+181,cf4b1c2f-9631-4d8d-acba-1d663ef23567,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.008355263,0,0,44,1,8
+182,4713edb3-bb56-4f41-a58b-de573c2da026,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,1581.8038815789494,0,0,45,1,8
+183,417a007f-5601-40ce-bc75-5689e09ce084,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,2.446302631578948,0,0,46,1,8
+184,7dc0b89f-b7d4-42f7-9918-2c95a53cafbc,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,1.439078947368421,0,0,47,1,8
+185,fd130820-639c-4c0f-822b-83adda87b79b,jensenshannon,jensenshannon,percent,2012-04-13 00:00:00+00,0.0,0,0,48,2,8
+186,1754059d-7986-4d65-a585-dcc1da62878f,jensenshannon,jensenshannon,percent,2012-04-13 00:00:00+00,0.0,0,0,49,2,8
+187,1eaa0b09-87a9-43cf-a0c8-28f6f52dde28,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.2584868421052636,0,0,50,1,8
+188,1ab06a06-484a-4da9-b5ba-93f6bb1861f3,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.000328947,0,0,51,1,8
+189,f766cbcc-fa1e-4ac4-8b74-4db74ddce169,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,4.054934210526316,0,0,52,1,8
+190,949e5ba6-2f91-4c8e-887e-55e2c43c1aa3,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.77375,0,0,53,1,8
+191,d6022903-e95b-43d4-b040-20d8ab84522b,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.0101681925162758,0,0,54,1,8
+192,fca6e89e-bc94-48b9-865d-45b6d6a03005,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.042415988,0,0,55,1,8
+193,cc11246d-b716-49d0-bfca-2ef6a851e723,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,17.91782894736842,0,0,56,1,8
+194,f9357014-0649-447b-adae-402d093fe3db,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,4.867962763524201e-05,0,0,57,1,8
+195,b2f63de7-b267-4236-9e36-928196507a5e,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,4.318000162722845e-05,0,0,58,1,8
+196,787d360d-be36-4343-9919-80af03497441,wasserstein_distance,wasserstein,percent,2012-04-13 00:00:00+00,0.008684211,0,0,59,1,8
+197,df75a7c7-406a-411e-9ea3-35e4c20c6679,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,558.7573138297874,0,0,31,1,9
+198,4bba8ef9-7e2f-4d22-b137-45f3e66b802e,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.6102127659574492,0,0,32,1,9
+199,09b1cc7a-8b6f-4e08-997f-6769df6c80b5,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.3325664893617018,0,0,33,1,9
+200,d581384a-39b9-490d-840c-44af0dc6d90b,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,15.564249999999994,0,0,34,1,9
+201,857d8c36-4788-4d71-aace-80732be72455,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.505106383,0,0,35,1,9
+202,0aed6aef-2f42-43bf-876e-5064960995c3,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.7339893617021277,0,0,36,1,9
+203,d919cc9d-1e45-4491-8ff1-7cb0f47e672e,jensenshannon,jensenshannon,percent,2012-04-14 00:00:00+00,0.090202355,0,0,37,2,9
+204,1ebc5bcc-c180-45b9-ba09-ebdad2483ed6,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,7540.994402127661,0,0,38,1,9
+205,88d38f84-5e51-45b5-8b9a-195fb394e3f5,jensenshannon,jensenshannon,percent,2012-04-14 00:00:00+00,0.0581577,0,0,39,2,9
+206,4ca604cf-79d5-4e61-a131-a6ad27e52260,jensenshannon,jensenshannon,percent,2012-04-14 00:00:00+00,0.1886860366878056,0,0,41,2,9
+207,6dc90dce-a284-4210-99ad-7697b04b746e,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.9927683510638298,0,0,42,1,9
+208,26ad99f4-ebad-49b9-96f3-42a84642cf7b,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.4736968085106378,0,0,43,1,9
+209,d69cbf0b-ccf7-464e-86d0-1ee132d24c4e,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.0194414893617022,0,0,44,1,9
+210,987c5014-db80-456f-a3a4-48bfc1f6ca23,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,1285.656515957445,0,0,45,1,9
+211,bc03dfee-473b-4210-8ada-562593fbeee7,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,3.426420212765957,0,0,46,1,9
+212,8623b3f9-5561-4615-a4eb-ce8d7a30f8fd,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,1.3385106382978722,0,0,47,1,9
+213,28f5679e-1989-4c57-8873-651123e4775a,jensenshannon,jensenshannon,percent,2012-04-14 00:00:00+00,0.0,0,0,48,2,9
+214,33b6cccf-335e-4392-a481-1d2900c373a3,jensenshannon,jensenshannon,percent,2012-04-14 00:00:00+00,0.0,0,0,49,2,9
+215,cbb05293-1654-43ab-8f8d-059368ad1fa7,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.3367819148936167,0,0,50,1,9
+216,57397bd4-f42d-4b7f-8f6a-66a8c30193a8,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.000664894,0,0,51,1,9
+217,b2dd520b-55d8-40b5-bb7a-0d8c7bb06fcc,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,4.547739361702127,0,0,52,1,9
+218,c8777570-a16e-42cf-97f6-127e310418a8,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.77375,0,0,53,1,9
+219,a9e50043-e89e-4861-9fdf-9c8e8fe06848,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.008234523,0,0,54,1,9
+220,94ed2d0e-ee6c-4121-b41a-5d8cee9423ee,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.0320841395721334,0,0,55,1,9
+221,a9686e18-9ad6-4fd2-b1ea-0f65f531d6ac,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,16.14252659574468,0,0,56,1,9
+222,4d5f4914-b820-4486-87bc-06b5772aa06f,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,9.987209985483411e-05,0,0,57,1,9
+223,83884289-355e-4715-873d-4562301d28fa,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,5.216549040783115e-05,0,0,58,1,9
+224,be23a995-c36d-4dfb-8336-4d4a41f0cf45,wasserstein_distance,wasserstein,percent,2012-04-14 00:00:00+00,0.020106383,0,0,59,1,9
+225,7191dc45-3f55-468d-80c9-3e7770740569,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,666.6454973,0,0,31,1,10
+226,8c59a885-5ef5-4df7-b214-ac89262a4fd8,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.8270967741935502,0,0,32,1,10
+227,91e6a1cd-ee16-49b5-a4a5-383065dad781,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.3153274193548386,0,0,33,1,10
+228,99a2968e-e02c-48dc-bea4-046a914ac62f,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,19.35151559139785,0,0,34,1,10
+229,d1eeff4b-407c-4ab9-9622-5763cb6363cf,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.5474731182795697,0,0,35,1,10
+230,3098c07b-7ec8-474d-a0fa-0129835577b8,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.6070161290322582,0,0,36,1,10
+231,3688fc6d-fff8-4d18-85e8-1c8496fb9283,jensenshannon,jensenshannon,percent,2012-04-15 00:00:00+00,0.085320453,0,0,37,2,10
+232,f4258a1e-7010-4f76-9267-1f315c063b28,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,6084.176949462362,0,0,38,1,10
+233,5dac02ea-2356-4dfe-b2aa-02133769f66e,jensenshannon,jensenshannon,percent,2012-04-15 00:00:00+00,0.057116917,0,0,39,2,10
+234,f70fea91-40bb-451c-b328-49bd2cfe255c,jensenshannon,jensenshannon,percent,2012-04-15 00:00:00+00,0.1572675140587165,0,0,41,2,10
+235,393331cc-e6f0-446c-81be-bf56ea793859,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.9523060483870966,0,0,42,1,10
+236,065f7d29-01a8-4027-8b22-81f174fb2b2b,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.627620968,0,0,43,1,10
+237,8445abea-2eea-4709-ab86-0e75c91c58f2,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.041518817,0,0,44,1,10
+238,dc9c18f7-cf3d-4dcb-a040-9d6a9c12c9ac,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,1699.277862903225,0,0,45,1,10
+239,c140ce2e-ca7b-4364-8476-72677cc4cb81,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,2.4130134408602144,0,0,46,1,10
+240,8b768884-45fb-485c-bec0-5a8cd1eef41e,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,1.735053763,0,0,47,1,10
+241,82f0f14e-be9a-400e-b6e7-76c6ffa8998d,jensenshannon,jensenshannon,percent,2012-04-15 00:00:00+00,0.0,0,0,48,2,10
+242,da4ea798-780d-4356-ad21-61bc32dd0f4c,jensenshannon,jensenshannon,percent,2012-04-15 00:00:00+00,0.0,0,0,49,2,10
+243,0cf108c5-c2f6-4d9b-9c50-a51c62ccf7ab,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.3447983870967742,0,0,50,1,10
+244,f67d4c2f-6f7b-4ebd-adc4-f42259c0c2a0,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.011760752688172,0,0,51,1,10
+245,9b22c9cc-961f-4050-a546-4246baeaf44f,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,4.648454301075269,0,0,52,1,10
+246,24fbe64b-0bb5-4770-aade-b881b3e92bb7,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.77375,0,0,53,1,10
+247,901855b4-dadd-4810-bd03-80251cd544e8,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.013314423,0,0,54,1,10
+248,1b7e1958-59c6-4788-9b7f-80dd012ffc4c,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.0304645217582539,0,0,55,1,10
+249,a8284d1d-f99c-4733-a1ca-b445b7c99f39,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,14.15745967741935,0,0,56,1,10
+250,716f955e-c138-468c-8631-ce3d7a4e8638,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.000269166,0,0,57,1,10
+251,e0f6cbc3-90b5-400e-b604-c5400a95318b,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,6.701546023455219e-05,0,0,58,1,10
+252,1c10ec3d-9c44-410b-9e8a-9f430bc0f26d,wasserstein_distance,wasserstein,percent,2012-04-15 00:00:00+00,0.05327957,0,0,59,1,10
+253,8c0a493d-dfba-4567-a240-de4b913880e4,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,1145.455163043478,0,0,31,1,11
+254,19d5046d-83b0-424e-a81b-7b0ee20a9d5f,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.2660869565217405,0,0,32,1,11
+255,abf4ca4b-7e14-4a24-b4f3-dbe71c7805dd,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.3952673913043479,0,0,33,1,11
+256,6fb67e1f-58c2-4890-aee7-290abb5fac8b,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,31.91725434782609,0,0,34,1,11
+257,2caca05e-3f69-4268-9270-de903887499a,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.6956521739130437,0,0,35,1,11
+258,bfdb7405-f43b-4d2c-9526-a8b5a0cb95f7,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.5207608695652175,0,0,36,1,11
+259,dc617a3b-9de1-4a4a-a7bd-4a2c3cef4410,jensenshannon,jensenshannon,percent,2012-04-16 00:00:00+00,0.073550463,0,0,37,2,11
+260,fad6513a-5089-47d3-8948-3445070a0232,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,6114.611944565218,0,0,38,1,11
+261,7a328e0c-b24c-4bc0-acf5-f840e906b5f7,jensenshannon,jensenshannon,percent,2012-04-16 00:00:00+00,0.038268516,0,0,39,2,11
+262,d07c86e9-51b4-4241-b9d2-c8f186b51b07,jensenshannon,jensenshannon,percent,2012-04-16 00:00:00+00,0.1667015301433401,0,0,41,2,11
+263,65d0a36e-fae2-4578-8d13-660a8ae64367,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.901633152,0,0,42,1,11
+264,9264be6f-ea37-4ecb-ac36-8ea1eb941f6a,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.4689673913043471,0,0,43,1,11
+265,90fb7b8e-e34e-49a2-803e-c540dd7374f3,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.042336957,0,0,44,1,11
+266,c05f17f5-c12c-4024-adc2-a0fa4c1c3274,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,1784.2677717391334,0,0,45,1,11
+267,ed1e1a0b-6263-4805-967a-845ecece2b13,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,2.121891304347826,0,0,46,1,11
+268,ed7d3b18-1cc0-4d43-91c3-64be0970902d,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,1.4891304347826086,0,0,47,1,11
+269,24ee67ce-dc83-4fb3-9c84-c54ab1bb4d57,jensenshannon,jensenshannon,percent,2012-04-16 00:00:00+00,0.0,0,0,48,2,11
+270,ca11f502-3fff-4b7d-822b-d7b0fcff18ba,jensenshannon,jensenshannon,percent,2012-04-16 00:00:00+00,0.0,0,0,49,2,11
+271,55a621d8-0cea-4d0c-a224-24975c45a837,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.3880978260869574,0,0,50,1,11
+272,f92abd9c-bb9b-409e-9189-ee1e5a6679e6,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.0122282608695651,0,0,51,1,11
+273,08da658e-1c72-4e20-94e8-1c4770e8ac7e,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,3.2595108695652177,0,0,52,1,11
+274,4dfe57fd-9caf-4824-9f10-031b66b26456,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.77375,0,0,53,1,11
+275,ebeb211b-a1b8-4180-ab2e-187a863bbc04,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.0159473181294105,0,0,54,1,11
+276,5c576b8f-df0d-4529-b907-c060830465e9,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.028266648,0,0,55,1,11
+277,594a4785-192c-45db-acc6-c6fe1294db85,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,10.849619565217392,0,0,56,1,11
+278,08b18d2a-51cc-4779-9829-7389f9402088,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.000274209,0,0,57,1,11
+279,3a52b05f-d6d8-49e7-8988-684011bee551,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,6.932303366685808e-05,0,0,58,1,11
+280,6f6841a5-ccbf-4689-ac38-f19e7d1a7268,wasserstein_distance,wasserstein,percent,2012-04-16 00:00:00+00,0.054565217,0,0,59,1,11
+281,57427cf5-ae0a-498e-a178-c949fd1cde92,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,1460.149381868132,0,0,31,1,12
+282,aaf531c1-6774-4657-a934-ddc50f7f9fb7,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.7476923076923088,0,0,32,1,12
+283,db978472-cf42-4946-8d87-a42addb20275,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.5273686813186813,0,0,33,1,12
+284,4abe51ef-a28a-4910-844b-cb1be2a3c03c,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,44.91723846153845,0,0,34,1,12
+285,98b11c4a-22ed-4d78-8780-e6a2a4ded589,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.9045054945054942,0,0,35,1,12
+286,409f7f87-dc2c-46ea-833a-c5bc139c2516,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.531510989,0,0,36,1,12
+287,6c646d75-b4d1-4905-b9ef-f7d516892e6f,jensenshannon,jensenshannon,percent,2012-04-17 00:00:00+00,0.0278632253376597,0,0,37,2,12
+288,62b0c1a9-5c0c-40b4-a22a-0ae392f9c996,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,4566.851339835166,0,0,38,1,12
+289,42b10d50-83ce-47e0-a340-7df029656da5,jensenshannon,jensenshannon,percent,2012-04-17 00:00:00+00,0.038685612,0,0,39,2,12
+290,0e8ade56-5279-4d8a-892b-5cf3ab9810ac,jensenshannon,jensenshannon,percent,2012-04-17 00:00:00+00,0.1622200951244653,0,0,41,2,12
+291,6e9e227b-4463-4259-80d6-f92d3f94c654,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,1.3150965659340657,0,0,42,1,12
+707,87a1d38f-be33-4ece-b888-369d853203a7,MCC,ML metric,percent,2012-04-17 00:00:00+00,0.0,0,0,9999,5,12
+292,6f1e2560-58f0-4b14-bc77-c96f5fddc067,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.5847115384615379,0,0,43,1,12
+293,e988e7e3-45f8-46a5-8af0-42daba7da038,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.0431730769230769,0,0,44,1,12
+294,5f4c0c15-29b3-4200-8f34-011b2de72729,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,1847.2120467032955,0,0,45,1,12
+295,6caaad09-ab67-45d0-b73e-36c686bdfef8,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,2.132461538461538,0,0,46,1,12
+296,5fa89c6d-5033-4ec6-9645-1e3231229763,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,1.3964835164835163,0,0,47,1,12
+297,a6b8d242-ad4e-4752-8783-1bf246fb4d92,jensenshannon,jensenshannon,percent,2012-04-17 00:00:00+00,0.0,0,0,48,2,12
+298,f8d2b986-5e57-4389-9421-a57f365cfb82,jensenshannon,jensenshannon,percent,2012-04-17 00:00:00+00,0.0,0,0,49,2,12
+299,ee6f61fb-c697-45bb-8f68-482fee0632c6,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.3258653846153844,0,0,50,1,12
+300,762202b9-af31-4e0b-8b61-83d35f7031aa,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.0127060439560439,0,0,51,1,12
+301,f76bc898-821d-4a94-ace7-ae436a19b344,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,3.271909341,0,0,52,1,12
+302,03dcb67d-8884-47f2-8fca-cd2b8061cf46,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.77375,0,0,53,1,12
+303,9077c1cb-5add-48c2-8a9a-e40dc111eab2,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.0164580268437422,0,0,54,1,12
+304,c8be12f7-974e-49b2-8e80-27a2b9f33437,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.02851795,0,0,55,1,12
+305,98cda83b-ed14-4353-a0ce-10a8068d3c39,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,8.112046703296704,0,0,56,1,12
+306,06eda4ee-525e-42e3-a695-d3f13c46cc12,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.000279364,0,0,57,1,12
+307,6c55e076-a487-4830-97ed-cd813fdc68a7,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,7.168132299877458e-05,0,0,58,1,12
+308,4d575550-499f-4712-b7c9-c04738297a46,wasserstein_distance,wasserstein,percent,2012-04-17 00:00:00+00,0.0558791208791208,0,0,59,1,12
+309,89771d15-2b7c-4345-9a78-858d758db002,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,1370.013392857143,0,0,31,1,13
+310,8b4189ce-5adc-42cd-a283-e5aaa266215f,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.7476923076923088,0,0,32,1,13
+311,1278c99b-f2d3-403e-8b6b-70a4fdd655b4,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.4436725274725275,0,0,33,1,13
+312,0cea91b8-dcfe-4640-8a3a-854490e082eb,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,42.82712637362637,0,0,34,1,13
+313,d84cdea4-2423-4a04-806a-a24156cf3d09,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.8078846153846153,0,0,35,1,13
+314,f6d6f232-8e1d-4e05-92bc-106746f8f1a2,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.4961263736263738,0,0,36,1,13
+315,02971544-98e4-4c2a-af64-507f33a2b0dd,jensenshannon,jensenshannon,percent,2012-04-18 00:00:00+00,0.034754042,0,0,37,2,13
+316,a66c5072-6d13-4c23-9256-1b0c2c17e03c,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,4867.169872802199,0,0,38,1,13
+317,79bd7830-b47c-4017-b1a2-1f7dd0ce1d8f,jensenshannon,jensenshannon,percent,2012-04-18 00:00:00+00,0.031225223,0,0,39,2,13
+318,057980c7-eee6-4521-899c-1aae164b6d45,jensenshannon,jensenshannon,percent,2012-04-18 00:00:00+00,0.1564740862249217,0,0,41,2,13
+319,c56ea947-b138-42a9-b481-fe37918f6e50,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,1.257845467032967,0,0,42,1,13
+320,d18be803-056e-406b-9515-981cadaeeff3,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.5279532967032963,0,0,43,1,13
+321,af35bbfc-d453-4a1e-83cb-66b72626fe27,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.0431730769230769,0,0,44,1,13
+322,b0d74445-5a13-4133-a4f3-45416bbba037,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,1069.219162087912,0,0,45,1,13
+323,7fc3b058-6ebb-4cd2-a1f3-eb52fd7b970e,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,1.788184065934065,0,0,46,1,13
+324,e39015bd-4068-426a-9972-72cfbc703318,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,2.0281318681318683,0,0,47,1,13
+325,87da6816-af46-4c27-96c7-9d4d9bf01ccb,jensenshannon,jensenshannon,percent,2012-04-18 00:00:00+00,0.0,0,0,48,2,13
+326,8693b73e-0433-40d8-b713-3137049cd58e,jensenshannon,jensenshannon,percent,2012-04-18 00:00:00+00,0.0,0,0,49,2,13
+327,745f4da6-a34a-4b6e-8659-a29d868f8127,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.1783928571428569,0,0,50,1,13
+328,c8a6e799-934d-4d05-87fe-3281804b8642,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.0127060439560439,0,0,51,1,13
+329,7311f69d-e380-499f-b1a1-ce4d4d48306d,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,5.298420329670328,0,0,52,1,13
+330,074c2f12-e897-499f-8a31-32a09d787494,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.77375,0,0,53,1,13
+331,08dd9f02-7883-475d-a791-20e7d8658cc1,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.013375946,0,0,54,1,13
+332,e6024e51-9962-42f2-b35e-7675315363ab,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.029658451,0,0,55,1,13
+333,2eb6f5a5-28a8-4025-8074-4ed46354a088,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,8.181524725274725,0,0,56,1,13
+334,ec1a7b0f-9dd5-4024-8e02-ed661fa59572,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.000331567,0,0,57,1,13
+335,73f371b4-1dff-43df-b582-4534a77df4a0,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.00011631,0,0,58,1,13
+336,8958ccdb-bc4c-49be-bcd2-572fd444b05d,wasserstein_distance,wasserstein,percent,2012-04-18 00:00:00+00,0.0558791208791208,0,0,59,1,13
+337,bc3c5fbf-4091-4d6b-af10-65c68cad1fcc,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,1123.7984203296703,0,0,31,1,14
+338,f7ae723f-6c82-4c54-b72e-627044b3fbb0,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,1.0114285714285716,0,0,32,1,14
+339,1efbf470-16e2-4195-b192-279e01f604a5,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.5310414835164836,0,0,33,1,14
+340,e6b1de7a-b492-4648-8271-f828b6258e59,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,35.644274725274734,0,0,34,1,14
+341,87c92af4-9db4-48e0-9abf-be175d7f9472,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.8335439560439561,0,0,35,1,14
+342,9e7938ac-ec23-4e84-921f-ca8e920f6689,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.4578571428571429,0,0,36,1,14
+343,96766412-4ecc-4b46-aba6-94027b36755e,jensenshannon,jensenshannon,percent,2012-04-19 00:00:00+00,0.0403630600896836,0,0,37,2,14
+344,1edbc2c9-e6f1-40d7-95e5-038003b2f980,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,3204.7643233516496,0,0,38,1,14
+345,88cf8d19-1dce-41ee-a21d-cb5881d24425,jensenshannon,jensenshannon,percent,2012-04-19 00:00:00+00,0.038685612,0,0,39,2,14
+346,39aa33f1-2a1f-4cd0-9403-ad8f2524b0ba,jensenshannon,jensenshannon,percent,2012-04-19 00:00:00+00,0.1575047673084653,0,0,41,2,14
+347,302357f6-0e25-492b-a938-0997e51a2cb8,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.8079160714285714,0,0,42,1,14
+348,ed0518ca-44c0-42d9-ac5a-bc8b468f978f,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.4400412087912081,0,0,43,1,14
+349,9464e00d-ac87-4392-af71-443a075be0b8,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.0431730769230769,0,0,44,1,14
+350,05a4e332-20ad-45bc-beef-1b418cdf5fd6,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,739.7333928571427,0,0,45,1,14
+351,500c39d6-9717-498f-b626-485cd4db980e,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,2.5964752747252744,0,0,46,1,14
+352,e1051bb0-d9b2-4bc6-b87d-7b6e08f693bc,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,1.5903571428571428,0,0,47,1,14
+353,6ba40997-54b6-4e1e-9a35-8fc7a2296d36,jensenshannon,jensenshannon,percent,2012-04-19 00:00:00+00,0.0,0,0,48,2,14
+354,18d272d8-2abe-419b-8bc3-2040647213bc,jensenshannon,jensenshannon,percent,2012-04-19 00:00:00+00,0.0,0,0,49,2,14
+355,5df6d4d0-3438-442b-93dd-fdbf9e35cdf2,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.2494642857142853,0,0,50,1,14
+356,558a68a7-82fa-49ca-b5c5-738f065f6861,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.0127060439560439,0,0,51,1,14
+357,75eab088-57b4-47fc-b684-1ae7a4574c49,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,5.781799451,0,0,52,1,14
+358,b60309b0-45b3-4545-93d5-42299ff77817,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.77375,0,0,53,1,14
+359,5bca3224-9a5c-463f-aa07-917ca4a1f51e,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.0171463631138974,0,0,54,1,14
+360,63f1d7f0-39b9-4233-b795-8aca459bb5a4,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.0245151149467342,0,0,55,1,14
+361,5ad1819c-332e-4767-9e8c-24c95c7f2465,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,11.705425824175828,0,0,56,1,14
+362,a248905e-826c-45ac-8f80-dbf341711afa,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.000331567,0,0,57,1,14
+363,04059423-56a2-4882-8749-80f86dd7b349,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.00011631,0,0,58,1,14
+364,baeebada-b791-4d74-8ed7-7039fe644d29,wasserstein_distance,wasserstein,percent,2012-04-19 00:00:00+00,0.0558791208791208,0,0,59,1,14
+365,f8dfde9f-dfba-4f39-a6da-7893a980cc82,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,1436.7970467032965,0,0,31,1,15
+366,47f4d691-74ad-496e-8159-1491b9a0c702,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,1.8026373626373624,0,0,32,1,15
+367,f7d81704-5eef-42ac-974d-49a53e88f7ce,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.7867989010989009,0,0,33,1,15
+368,a99669d4-8941-4f2f-a177-8da1e1462881,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,39.71894010989012,0,0,34,1,15
+369,1308d239-001d-4e9d-8311-4e66352e4092,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,1.1505769230769227,0,0,35,1,15
+370,0b0b32db-011e-4c4a-bbbd-18eadece3749,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.3919230769230769,0,0,36,1,15
+371,631aa6bd-f421-4aee-a306-7d353fde8a74,jensenshannon,jensenshannon,percent,2012-04-20 00:00:00+00,0.0192841277384516,0,0,37,2,15
+372,2ff224f7-6ce7-4d2a-9128-5825bec21b25,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,3800.8056651098914,0,0,38,1,15
+373,ac75000d-6d11-4073-9ffa-f78aa7016ce7,jensenshannon,jensenshannon,percent,2012-04-20 00:00:00+00,0.05387788,0,0,39,2,15
+374,a1dacc3e-7386-43cc-a3b4-ca45759a2511,jensenshannon,jensenshannon,percent,2012-04-20 00:00:00+00,0.1346689878273323,0,0,41,2,15
+375,f1c71bee-55bd-4104-a2c3-603366d9bc3c,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.5215028846153844,0,0,42,1,15
+376,99d532cd-2d95-4897-925f-40281d1e7386,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.4753434065934062,0,0,43,1,15
+377,926bbcff-4011-4d25-a463-89fceebd99f8,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.021195054945055,0,0,44,1,15
+378,ec6bf1d9-a83e-4c12-8618-969718e8b4a9,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,1004.8058928571425,0,0,45,1,15
+379,882b5091-4185-4b75-9c2c-016f0f02edbe,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,5.694112637362638,0,0,46,1,15
+380,70a7259b-d4eb-497b-8998-eb9ce6033a10,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,2.0239285714285717,0,0,47,1,15
+381,44b135be-b68b-4ee5-a42f-d4bd404f13c6,jensenshannon,jensenshannon,percent,2012-04-20 00:00:00+00,0.0,0,0,48,2,15
+382,afb0a59b-fcd0-4aec-98cf-f3512707954c,jensenshannon,jensenshannon,percent,2012-04-20 00:00:00+00,0.0,0,0,49,2,15
+383,ebf2556b-ae33-4888-b11a-4418f815b9f7,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.2055082417582415,0,0,50,1,15
+384,b756f413-674b-4a52-8ccd-f588daff6bd7,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.001717033,0,0,51,1,15
+385,665764e0-12d3-4626-bee3-98817525ff9b,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,7.2103708791208785,0,0,52,1,15
+386,f53a8fa6-9657-4850-bd9f-256c98b6a084,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.77375,0,0,53,1,15
+387,118e0e45-daa7-45c9-a0c8-4358a4c4a542,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.0221676689966863,0,0,54,1,15
+388,faf3e637-12ec-4ef9-bafe-34358f588397,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.0299993110730008,0,0,55,1,15
+389,50eb8d24-76b2-4f9c-9b92-1c400a59c596,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,15.087376373626372,0,0,56,1,15
+390,39c88d76-25e4-4bd5-b251-4a24c9e95232,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.000187824,0,0,57,1,15
+391,d98be09b-a017-4372-96fe-98e990be7c08,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,5.465007403785712e-05,0,0,58,1,15
+392,740a29c3-4b03-4857-8eb6-a9862d66a151,wasserstein_distance,wasserstein,percent,2012-04-20 00:00:00+00,0.0229120879120879,0,0,59,1,15
+393,74ebdd31-618b-46fc-94bc-a73c8f02df7a,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,874.0978708791208,0,0,31,1,16
+394,5675ced3-1dbe-4692-aa7b-f0b51d63f259,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,1.8026373626373624,0,0,32,1,16
+395,1c27cdd4-0d6f-4ce0-b189-09281af9d74a,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.7692164835164834,0,0,33,1,16
+396,e9dadcea-609c-47c8-bb6c-95dc7204e8ca,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,23.109785989010987,0,0,34,1,16
+397,eca9d8ef-e05b-41b7-a34f-f12427224e65,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,1.183543956043956,0,0,35,1,16
+398,ed0e028e-2652-49c5-9387-74f88ccbb23b,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.3482967032967035,0,0,36,1,16
+399,3f1f38bd-78ce-4eef-8ac4-55a5aa571136,jensenshannon,jensenshannon,percent,2012-04-21 00:00:00+00,0.02556949,0,0,37,2,16
+400,2378c216-b438-4d9d-9a56-a8b3e1ad6b65,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,2767.616506318682,0,0,38,1,16
+401,c7d3d2bd-064f-4a63-b548-c34e2ac403ef,jensenshannon,jensenshannon,percent,2012-04-21 00:00:00+00,0.0499235851124304,0,0,39,2,16
+402,5bdd0006-88f4-44bf-9b26-c0575936b4df,jensenshannon,jensenshannon,percent,2012-04-21 00:00:00+00,0.1469483507306046,0,0,41,2,16
+403,407dcab1-0d63-4a34-bb89-02e4bb347eeb,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.6794855769230767,0,0,42,1,16
+404,6d80bd66-a317-458b-8f47-54b548a9d935,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.4651236263736257,0,0,43,1,16
+405,283cea58-0ffe-4b98-a07f-1151fa936303,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.000782967,0,0,44,1,16
+406,6a742b64-38c3-4799-bf78-bad809a6b8e6,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,1284.0836401098893,0,0,45,1,16
+407,7874fe26-660b-4f5a-b839-83043fa9f76c,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,6.101906593406594,0,0,46,1,16
+408,fdcf8321-242f-4d38-bdc7-b412e5fa5717,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,1.5971428571428574,0,0,47,1,16
+409,89104eef-8f1e-48ac-a64d-1950072c52d2,jensenshannon,jensenshannon,percent,2012-04-21 00:00:00+00,0.0,0,0,48,2,16
+410,31fa189f-ccd5-4eb2-86a1-bb6cf37f53dc,jensenshannon,jensenshannon,percent,2012-04-21 00:00:00+00,0.0,0,0,49,2,16
+411,f637bb38-3ecb-483d-8f0b-f92ae6960910,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.2611401098901096,0,0,50,1,16
+412,e2ed376d-8077-4d8e-8f5b-fd52fdc6a23a,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.009271978,0,0,51,1,16
+413,6e00372a-e16c-451a-b310-b3c467d66083,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,6.310645604395603,0,0,52,1,16
+414,9c73a504-79cf-4191-a087-1b87a79a1c96,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.77375,0,0,53,1,16
+415,dfb8c423-ca54-4acb-aa90-f93394263b3d,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.015661267,0,0,54,1,16
+416,6ba97b2e-58b3-4edd-9534-fc6a5382695d,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.035537718,0,0,55,1,16
+417,639f4a27-af81-45b0-8087-dbc73ab29d7e,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,15.957623626373628,0,0,56,1,16
+418,9dc48801-ce04-4cda-a919-1b6a59d3ae07,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,7.132743300962778e-05,0,0,57,1,16
+419,bd11022e-e378-4a58-9586-20a44f11a846,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,7.266310358624568e-05,0,0,58,1,16
+420,22f7b885-70c3-4777-b8cc-b881052adf20,wasserstein_distance,wasserstein,percent,2012-04-21 00:00:00+00,0.0100549450549449,0,0,59,1,16
+421,4b7afba6-65c2-4bf8-b58e-285a854e8743,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,640.6308379120878,0,0,31,1,17
+422,b50d1616-d4fe-47eb-9ccb-c8ed62faa0a6,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,2.066373626373628,0,0,32,1,17
+423,29387d8c-4bd9-42dc-a917-a99400ed75d8,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.6193711538461539,0,0,33,1,17
+424,4e8a48ae-0381-41f9-88f3-ca68b9061979,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,19.136281868131867,0,0,34,1,17
+425,55971b35-a622-4429-9dfc-291fc3c91368,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,1.0062637362637363,0,0,35,1,17
+426,f042fc0d-0420-4628-9337-bcdad09ff2dd,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.3803571428571429,0,0,36,1,17
+427,6c616347-f715-4efb-a080-48173144acfb,jensenshannon,jensenshannon,percent,2012-04-22 00:00:00+00,0.0418434282314357,0,0,37,2,17
+428,e55641cc-3d8d-4aa1-8ada-d94d46225683,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,3490.590075549452,0,0,38,1,17
+429,24ee7087-b314-48d0-8334-4b3767d73183,jensenshannon,jensenshannon,percent,2012-04-22 00:00:00+00,0.0499235851124304,0,0,39,2,17
+430,a5a279c7-c07d-47ba-9f38-d66de292f2b3,jensenshannon,jensenshannon,percent,2012-04-22 00:00:00+00,0.1511370472671587,0,0,41,2,17
+431,7633e1a0-2119-47bf-8859-0abf4a2057f5,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.7165682692307692,0,0,42,1,17
+432,ee6f3b52-f079-4569-82a0-81a448825891,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.3881456043956038,0,0,43,1,17
+433,038ee58d-ca13-4d75-9e1f-cf2ac9a6f211,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.0117719780219779,0,0,44,1,17
+434,07fc4c40-9531-444b-9e72-bc8694f4e522,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,2092.9550137362635,0,0,45,1,17
+435,ed10b314-f123-491e-8dc8-314836f92478,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,6.255445054945055,0,0,46,1,17
+436,acb5dc13-fb07-491d-b810-b68be36bee64,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,1.721978021978022,0,0,47,1,17
+437,7348208b-c279-407a-99c6-996abea7e3bf,jensenshannon,jensenshannon,percent,2012-04-22 00:00:00+00,0.0,0,0,48,2,17
+438,762b6d44-7846-43eb-859c-387760aa8314,jensenshannon,jensenshannon,percent,2012-04-22 00:00:00+00,0.0,0,0,49,2,17
+439,e679dc7e-c0bf-4f63-b341-d836feb1c35a,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.2941071428571425,0,0,50,1,17
+440,161716d3-8cb5-49fe-b233-d88b54d0dc7d,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.009271978,0,0,51,1,17
+441,ff190174-d200-478d-9369-491b9cbf7d19,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,3.959684065934064,0,0,52,1,17
+442,960e5fc0-b53a-4e9d-9d2f-7b1551f77ceb,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.77375,0,0,53,1,17
+443,b1998c47-125b-4415-8a28-0ba6fa015003,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.0126631908568587,0,0,54,1,17
+444,6ecab6f3-6caf-40f2-93a0-f064ba571533,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.024063932,0,0,55,1,17
+445,41a84676-f48d-456a-b2c6-61cb24a0462b,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,14.79287087912088,0,0,56,1,17
+446,12082ded-9bd5-4766-a4db-26763d5b4467,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,6.401396039718116e-05,0,0,57,1,17
+447,2e8e8d6b-3f4c-4f0a-8207-cd471c2c5f08,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,5.614521344531906e-05,0,0,58,1,17
+448,892ee362-c410-4bfb-b534-1239550f4e0a,wasserstein_distance,wasserstein,percent,2012-04-22 00:00:00+00,0.0210439560439559,0,0,59,1,17
+449,8c47e9ce-207d-419a-8507-52afb99b9958,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,587.4563873626373,0,0,31,1,18
+450,fcbafd8e-f5d5-459c-8584-0c6d6201c98b,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,2.066373626373628,0,0,32,1,18
+451,170c9c6b-f7f7-4e90-91d8-3dac0e0491c1,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.6300585164835164,0,0,33,1,18
+452,36bf7ee8-b844-4a56-a820-19c210e8ed37,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,23.28353708791209,0,0,34,1,18
+453,80cdc883-8a98-4ad4-95ee-ecdb8c40b012,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,1.0095054945054944,0,0,35,1,18
+454,2927ae29-2135-41bb-a91e-c2e558dfb874,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.2524725274725275,0,0,36,1,18
+455,46a95ff4-5330-4f98-8cee-93707fc36fa8,jensenshannon,jensenshannon,percent,2012-04-23 00:00:00+00,0.038768471,0,0,37,2,18
+456,8c613c65-5edf-4d27-bcf3-e59ed1074b15,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,3700.61416,0,0,38,1,18
+457,7d4aea07-b464-45da-bc04-43e4d08cc8e1,jensenshannon,jensenshannon,percent,2012-04-23 00:00:00+00,0.0293079728043349,0,0,39,2,18
+458,e05c55fb-fd43-4239-892f-c35ba9bdbc10,jensenshannon,jensenshannon,percent,2012-04-23 00:00:00+00,0.149174826509591,0,0,41,2,18
+459,18f9831b-bada-438a-85a1-ef36303d70cb,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.8201196428571428,0,0,42,1,18
+460,50cd05f5-ba49-4b64-955d-34252d700f9d,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.519821429,0,0,43,1,18
+461,cd86f480-eb7b-4d2f-b233-ddd824915437,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.000782967,0,0,44,1,18
+462,85060773-dcc4-4a0a-b1ad-7618d63ba547,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,2411.2573214285712,0,0,45,1,18
+463,3e184efe-41f2-4b46-ab39-aebd6e03237d,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,5.0524532967032965,0,0,46,1,18
+464,80e95bae-4170-40d4-bf86-a6e61ed38b96,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,1.4215109890109894,0,0,47,1,18
+465,50fc93da-bdeb-4f3a-b8c4-2ed61231239f,jensenshannon,jensenshannon,percent,2012-04-23 00:00:00+00,0.0,0,0,48,2,18
+466,51035d5a-7f83-459c-9ff8-1e98a1c6e760,jensenshannon,jensenshannon,percent,2012-04-23 00:00:00+00,0.0,0,0,49,2,18
+467,1e74a692-e5fc-485a-9ce1-f76c14dac3e6,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.2145192307692305,0,0,50,1,18
+468,87e37a98-d6aa-401e-bed1-4406f5799921,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.001717033,0,0,51,1,18
+469,35622eea-f491-4cd0-b47f-2ba9b89ecc69,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,4.717239011,0,0,52,1,18
+470,201e26fb-fb04-4c41-97ce-ebbd65f0003f,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.77375,0,0,53,1,18
+471,99bf8bd1-8385-45c0-abd3-92e5b456d453,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.008706435,0,0,54,1,18
+472,af88fafd-e662-4aef-a47f-e27e95a552c1,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.0243363159983353,0,0,55,1,18
+473,64cd5d1e-4ac3-4395-8f4e-2c587f7bc153,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,10.01306318681319,0,0,56,1,18
+474,3ae601b8-160d-4c6e-b3dd-e4dc649f54dd,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,3.126991306848043e-05,0,0,57,1,18
+475,f1d074a7-52f5-4d68-97e5-b99bc2d9247c,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,3.434052795959418e-05,0,0,58,1,18
+476,45e45dd9-59c8-47a4-add3-4c1d1f0bd028,wasserstein_distance,wasserstein,percent,2012-04-23 00:00:00+00,0.0025,0,0,59,1,18
+477,5651910a-ae21-4031-9638-18c13b44bf79,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,627.0690247252746,0,0,31,1,19
+478,a3659680-bc1b-407f-95ed-e861d9ad1dab,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,2.330109890109891,0,0,32,1,19
+479,4533a524-2b33-49ce-b069-2ea3cedb4c4c,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.5968730769230769,0,0,33,1,19
+480,c3df4db5-d508-4fbd-a892-3b50e6614113,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,28.449702472527477,0,0,34,1,19
+481,a2c00cf1-eb1d-493c-bafd-76787fcada3f,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.8858241758241756,0,0,35,1,19
+482,b61511e5-2370-4cdb-b8c7-a2414e2b28db,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.3138736263736263,0,0,36,1,19
+483,0a57b605-4d88-4b22-8ffd-a234731af395,jensenshannon,jensenshannon,percent,2012-04-24 00:00:00+00,0.037311269,0,0,37,2,19
+484,e66e2c13-ecd1-4d03-b93d-d2e6f15139de,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,3502.320362362637,0,0,38,1,19
+485,3c8c6ffe-7b57-4f92-82a6-f45cd42b093f,jensenshannon,jensenshannon,percent,2012-04-24 00:00:00+00,0.048123855,0,0,39,2,19
+486,bec97131-fb66-43ab-af8b-ba26e21aa218,jensenshannon,jensenshannon,percent,2012-04-24 00:00:00+00,0.161559499424271,0,0,41,2,19
+487,0cac2563-e8a2-4d71-87a7-5f6fa1c61612,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.977106456,0,0,42,1,19
+488,55454eba-61a9-456d-8099-85f385767579,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.7288598901098895,0,0,43,1,19
+489,c6f5af63-def1-45ce-8d9f-eaaf1b8d83a9,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.000782967,0,0,44,1,19
+490,2b3b6576-0d8c-4d78-b080-c7a64bd834ba,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,2862.277706043956,0,0,45,1,19
+491,165777f4-940d-4021-b325-ab95138e7b77,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,5.122060439560439,0,0,46,1,19
+492,c01b7c0e-d65b-49bf-92b0-036a0c769f14,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,1.304423076923077,0,0,47,1,19
+493,252c3472-31f2-42b0-93c1-63c3685b30b5,jensenshannon,jensenshannon,percent,2012-04-24 00:00:00+00,0.0,0,0,48,2,19
+494,874f1618-6ac3-463e-a5b6-9c6f23bc482d,jensenshannon,jensenshannon,percent,2012-04-24 00:00:00+00,0.0,0,0,49,2,19
+495,aaaf8711-6639-40cd-9ad0-d84904299c41,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.1375961538461535,0,0,50,1,19
+496,0a17c1f0-1df5-4961-a088-8f2eb6cc2de7,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.001717033,0,0,51,1,19
+497,fd91b9b5-fe97-404e-a6d9-f2b4f839ce51,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,5.596359890109889,0,0,52,1,19
+498,3bebc557-930e-48a7-b6cf-f01c1db8eace,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.77375,0,0,53,1,19
+499,5bc08c89-e24a-4dcd-b4e6-1cf6d1667bc5,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.0103618255802371,0,0,54,1,19
+500,3b92102a-59d0-425b-a9bf-d98cb98cbbdf,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.0355049575879768,0,0,55,1,19
+501,58e6f5fc-d363-4d14-a9b5-0938d376e70c,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,9.308392857142854,0,0,56,1,19
+502,fede6606-d0e8-4541-91f0-a824c8ada5a3,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,3.126991306848043e-05,0,0,57,1,19
+503,3afc625c-d2da-4814-94b0-5dc7334da1a6,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,3.434052795959418e-05,0,0,58,1,19
+504,8f533417-9a9c-460b-bd98-37253a8048b7,wasserstein_distance,wasserstein,percent,2012-04-24 00:00:00+00,0.0025,0,0,59,1,19
+505,62ee3be6-aa27-485b-b95e-d0bdaf5e669d,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,461.27918956043953,0,0,31,1,20
+506,787d43b9-ee39-4423-8598-6ca992c9457d,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,2.066373626373628,0,0,32,1,20
+507,d74ed21d-1aa0-456d-8a46-e9c2739603a8,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.4934967032967033,0,0,33,1,20
+508,f646a711-e2fe-48eb-982a-7c19390e7c58,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,23.32297170329671,0,0,34,1,20
+509,989d6032-519f-4caf-9476-67b2c6cc101c,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.748956044,0,0,35,1,20
+510,57a3c9ad-e590-4ef9-8dea-177ed0d6240c,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.230576923076923,0,0,36,1,20
+511,398c8881-5e3e-41af-a4b3-8e4f5a76b818,jensenshannon,jensenshannon,percent,2012-04-25 00:00:00+00,0.0371881683269984,0,0,37,2,20
+512,119a3933-e993-4577-9480-2efb8fb568a0,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,5075.711591758239,0,0,38,1,20
+513,7e47902a-5646-4cfc-b2ba-114fc682b1d8,jensenshannon,jensenshannon,percent,2012-04-25 00:00:00+00,0.04482806,0,0,39,2,20
+514,9587da66-0333-47ec-9508-d67118f310dc,jensenshannon,jensenshannon,percent,2012-04-25 00:00:00+00,0.1198815219827574,0,0,41,2,20
+515,ec572319-aedb-4e7b-bf64-602fefff3e06,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,1.06594217,0,0,42,1,20
+516,3d2d4771-fc97-4dbb-b3c1-7603cb2615ee,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.5569368131868124,0,0,43,1,20
+517,dd8b7645-389d-4922-919c-668fda44ee92,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.0117719780219779,0,0,44,1,20
+518,1bd2749e-dcd0-488a-9e67-abededd7b07c,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,2371.1152609890105,0,0,45,1,20
+519,2bd60646-9af5-41da-a4ca-634fa1e64ac7,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,3.3766263736263733,0,0,46,1,20
+520,b2b57465-4c03-419c-bb27-51f1f3790fa6,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,1.419230769230769,0,0,47,1,20
+521,3b69968f-c710-4094-b6ef-15f97815c387,jensenshannon,jensenshannon,percent,2012-04-25 00:00:00+00,0.0,0,0,48,2,20
+522,814a81bf-d435-4ce0-9b16-a0163f642e57,jensenshannon,jensenshannon,percent,2012-04-25 00:00:00+00,0.0,0,0,49,2,20
+523,8e8c0811-c2c3-4970-a568-bd2011193b55,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.1701236263736261,0,0,50,1,20
+524,66eb974c-6e53-4e16-8eb5-638d0ff434c2,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.009271978,0,0,51,1,20
+525,902accb1-3fef-4d62-a55a-d5fde71561d4,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,6.038942307692306,0,0,52,1,20
+526,3a11fd65-f50e-4a25-b2f7-90978b18e2b3,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.77375,0,0,53,1,20
+527,7478abe5-5d69-48b7-8d11-ae132382037f,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.0109350764038695,0,0,54,1,20
+528,bf5ea0ef-1d71-4d13-8dd1-23cef5f53723,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.0244904980125372,0,0,55,1,20
+529,d41061d7-a702-44e9-acbe-70d8e3eb1cfc,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,12.442733516483514,0,0,56,1,20
+530,9fe292a5-0bb9-4620-9de1-5729a66f1770,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,8.283419330284727e-05,0,0,57,1,20
+531,3acfff39-bb5b-45b6-a88d-11da4bf9e699,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,6.942453693363303e-05,0,0,58,1,20
+532,4495d040-5ae4-48bf-9395-199c3e974530,wasserstein_distance,wasserstein,percent,2012-04-25 00:00:00+00,0.0210439560439559,0,0,59,1,20
+533,0c788c7f-2b3e-4ebd-b2a0-154da8bb12b6,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,727.0422390109889,0,0,31,1,21
+534,06b554f0-5d39-49d9-8db8-86f9f7813c78,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,1.5389010989010998,0,0,32,1,21
+535,87647ebb-f6b1-429e-ae63-f6e11ab956ec,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.3752236263736263,0,0,33,1,21
+536,2f8f752d-491f-4498-a3c9-3c71d30ff86e,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,25.95523241758241,0,0,34,1,21
+537,6fd55ef0-fdeb-4f82-9943-73f3bc2b087e,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.5443681318681317,0,0,35,1,21
+538,6287df49-335f-4072-a517-2a67bce4a217,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.4740934065934066,0,0,36,1,21
+539,4cce8e55-f914-45b6-b058-3eecf7f6f288,jensenshannon,jensenshannon,percent,2012-04-26 00:00:00+00,0.059842314,0,0,37,2,21
+540,c961c342-79c7-46ed-9f8f-6d5ed5ad7904,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,6429.686608791206,0,0,38,1,21
+541,0321c651-30ac-4299-98c7-13a64de7f3aa,jensenshannon,jensenshannon,percent,2012-04-26 00:00:00+00,0.022548172,0,0,39,2,21
+542,d3c27ea2-4c58-474a-92dc-c29c49b6d880,jensenshannon,jensenshannon,percent,2012-04-26 00:00:00+00,0.1171842997873876,0,0,41,2,21
+543,2c192eed-02f7-4467-85a7-aa78fbd13a53,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.7726861263736262,0,0,42,1,21
+544,dd04fef6-6eb2-4cc3-8e9a-b9ead5f37310,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.6008928571428566,0,0,43,1,21
+545,aacfcc8f-ecd7-4f8d-9ee6-29999eae9029,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.0117719780219779,0,0,44,1,21
+546,1be63a89-8f24-4348-a529-fef5b024c47b,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,1864.9314423076924,0,0,45,1,21
+547,7b825c5c-06b2-4e3d-bd08-4aae3f66c8e5,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,1.6314395604395604,0,0,46,1,21
+548,341655f6-c0e7-4474-8c69-05da299f0296,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,1.0741483516483508,0,0,47,1,21
+549,249db539-baf4-4481-8d39-fba10ca45c1e,jensenshannon,jensenshannon,percent,2012-04-26 00:00:00+00,0.0,0,0,48,2,21
+550,04ec6a00-58da-40de-9d05-7fe7093c780c,jensenshannon,jensenshannon,percent,2012-04-26 00:00:00+00,0.0,0,0,49,2,21
+551,d1048eb5-fffe-414c-8e76-42693aa8173c,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.2004258241758238,0,0,50,1,21
+552,6e5e5f14-6890-4132-9929-046b9457cbb8,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.009271978,0,0,51,1,21
+553,f4da5b49-b1ca-4d60-a336-5e3ad567d3ca,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,6.511057692307691,0,0,52,1,21
+554,171a9a35-c006-496f-a507-8312dea6e584,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.77375,0,0,53,1,21
+555,2f85afba-c56d-4aa4-8b4d-a6b6caf87650,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.0129557247820838,0,0,54,1,21
+556,0222d866-5c72-4725-835e-088edcbb99de,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.022100232,0,0,55,1,21
+557,64b04e50-ee09-4074-87e7-bb091c14b661,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,13.161744505494502,0,0,56,1,21
+558,bc13a90a-8649-4259-9197-cc39107729c7,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,8.283419330284727e-05,0,0,57,1,21
+559,28e23e5e-d0ce-46bf-a849-a370cc2ba0c1,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,6.942453693363303e-05,0,0,58,1,21
+560,e2e9ab5d-0ad0-4839-bda8-b268b2f16a97,wasserstein_distance,wasserstein,percent,2012-04-26 00:00:00+00,0.0210439560439559,0,0,59,1,21
+561,547c68f4-9e6c-42a0-b738-032c02999519,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,664.2963598901097,0,0,31,1,22
+562,be318864-3d20-4ea5-936d-1ddf14d86cc2,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,1.275164835164837,0,0,32,1,22
+563,7527db92-0fef-465f-b34b-f542a0d0f2e4,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.3709945054945053,0,0,33,1,22
+564,dfa54ace-8bb0-4856-8761-756fe45eb31c,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,19.99391978021978,0,0,34,1,22
+565,6629cf00-80b1-4d21-a1f6-dc87522df21f,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.5556043956043952,0,0,35,1,22
+566,c2af2f3b-1824-4317-9afd-927daaa21d2d,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.3202472527472527,0,0,36,1,22
+567,d240e640-2ea4-430c-a5d7-c68ac14eddd6,jensenshannon,jensenshannon,percent,2012-04-27 00:00:00+00,0.0548196194981612,0,0,37,2,22
+568,ca8f74f6-103d-4183-ad74-f74402b0773d,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,7158.568774450547,0,0,38,1,22
+569,9a9fb500-7c4d-42ea-ae33-b2c2de51c6fe,jensenshannon,jensenshannon,percent,2012-04-27 00:00:00+00,0.0432152198504092,0,0,39,2,22
+570,7abc115e-3917-407e-99e2-d62b41734153,jensenshannon,jensenshannon,percent,2012-04-27 00:00:00+00,0.1312313013767497,0,0,41,2,22
+571,483401d5-65d1-44d2-b118-28a76f9821a0,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.7718298076923078,0,0,42,1,22
+572,e1914874-d177-49cd-b367-f7ba3699c0d0,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.6767994505494501,0,0,43,1,22
+573,bc3d1803-8a57-48cb-842f-e9b6f1d60e85,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.0117719780219779,0,0,44,1,22
+574,cfbca836-be06-4452-ac1d-aa2295913df4,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,1478.7680631868134,0,0,45,1,22
+575,697d0ce8-b5a2-4732-a7b3-11cbf64bcb19,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,2.142678571428572,0,0,46,1,22
+576,cd3b71c5-cd4a-4853-9728-da68b46e3496,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,1.1248901098901096,0,0,47,1,22
+577,5062dcce-167a-49fe-a671-0f0a0981c963,jensenshannon,jensenshannon,percent,2012-04-27 00:00:00+00,0.0,0,0,48,2,22
+578,efba3c23-601e-4def-a967-86b0467e1614,jensenshannon,jensenshannon,percent,2012-04-27 00:00:00+00,0.0,0,0,49,2,22
+579,fe3aebb8-c98a-4934-ac69-18d061b08b06,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.1858653846153841,0,0,50,1,22
+580,b5fcd153-94cb-4d42-9bbb-b5f54f48ec6e,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.009271978,0,0,51,1,22
+581,95e02a06-2ecd-426b-8a7a-1563c75756eb,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,5.961607142857142,0,0,52,1,22
+582,43e2a4cc-ce9e-4984-8d5c-9593823a56a3,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.77375,0,0,53,1,22
+583,acb45f59-a59e-4cc0-94c7-d54df10a07ec,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.0154132114593693,0,0,54,1,22
+584,da802c78-09bb-411b-849f-e776ea283a0d,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.0136493370544091,0,0,55,1,22
+585,90a83858-bacf-4d36-bb99-f9f0321a9f87,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,10.74638736263736,0,0,56,1,22
+586,47f281d7-30b4-4c0a-8324-965b64579108,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,8.283419330284727e-05,0,0,57,1,22
+587,bbdba079-9ecd-47e0-b9de-28d712cacf79,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,6.942453693363303e-05,0,0,58,1,22
+588,6ddd97e4-c747-4be5-8910-f47fc21fa8f8,wasserstein_distance,wasserstein,percent,2012-04-27 00:00:00+00,0.0210439560439559,0,0,59,1,22
+589,80fe65c3-2b62-431a-b80c-a848295980e6,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,839.6988324175823,0,0,31,1,23
+590,7d350ffb-6342-4e8e-be26-9b19a0b06925,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,1.8026373626373624,0,0,32,1,23
+591,c92b8270-0ccf-493d-a4d6-57caff0aee47,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.4096362637362638,0,0,33,1,23
+592,da9bf535-e109-43f4-9c19-92480ebc802f,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,23.701236263736263,0,0,34,1,23
+593,1651cf60-1337-4cff-8428-55a255026b25,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.6289010989010986,0,0,35,1,23
+594,e093e0fb-aab7-435e-8428-ff5b21e7c78d,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.3392857142857143,0,0,36,1,23
+595,6e012cb0-78b8-469d-b37b-90628fcbc18c,jensenshannon,jensenshannon,percent,2012-04-28 00:00:00+00,0.097552785,0,0,37,2,23
+596,a5c0c57b-5f2b-4c1b-bd96-6ca0af09a7f4,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,4967.236411813185,0,0,38,1,23
+597,5c886bb4-b037-41d2-ba9f-ad7d0ecb9eab,jensenshannon,jensenshannon,percent,2012-04-28 00:00:00+00,0.0313002256373101,0,0,39,2,23
+598,6e859ad3-c529-4cb2-872c-d1cd01a52d46,jensenshannon,jensenshannon,percent,2012-04-28 00:00:00+00,0.1273032676655492,0,0,41,2,23
+599,f8cfd851-c586-4372-bf87-6ac47a663861,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.6534839285714287,0,0,42,1,23
+600,12822611-6505-4f36-8216-0cd5a621b555,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.5825137362637357,0,0,43,1,23
+601,6976997a-9b21-4887-a8b7-b1dfd13bbd88,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.0117719780219779,0,0,44,1,23
+602,b0f372bd-d4c1-4f90-852e-4775f6bf6fe2,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,1467.9786401098902,0,0,45,1,23
+603,e0e0cf5d-4569-400c-9bb7-af65119aee38,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,2.3297967032967035,0,0,46,1,23
+604,71f3b681-244f-4024-9e69-41fa1fd17bc3,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.9130769230769228,0,0,47,1,23
+605,326c374d-4567-43a5-8c24-29555a22715b,jensenshannon,jensenshannon,percent,2012-04-28 00:00:00+00,0.0,0,0,48,2,23
+606,0c9a16b5-204d-417d-ac68-f37295914d81,jensenshannon,jensenshannon,percent,2012-04-28 00:00:00+00,0.0,0,0,49,2,23
+607,2ad6005b-9b02-4fe4-a538-e76751c477bc,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.1147390109890107,0,0,50,1,23
+608,b23795ec-c791-4a9a-aca2-aad89a2392cb,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.009271978,0,0,51,1,23
+609,65787f54-2170-4287-b0bf-1f7c4a959d68,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,4.538118131868131,0,0,52,1,23
+610,187e1dd6-f26f-4b3f-baa4-1a3f547c02fd,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.77375,0,0,53,1,23
+611,c55bc13f-1491-4760-8bf7-f9314e22308a,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.016297486303899,0,0,54,1,23
+612,27a5c666-8d3b-4a33-b0ce-8cd538fe19e2,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.0223567467556413,0,0,55,1,23
+613,cb55e7c8-16ca-43da-877f-b66a0e571365,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,13.183200549450545,0,0,56,1,23
+614,1e5d9160-54e7-4e40-a322-4df73db52f83,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,8.283419330284727e-05,0,0,57,1,23
+615,e6da9622-2e2f-4587-9634-d921b203b4e7,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,6.942453693363303e-05,0,0,58,1,23
+616,76486d18-404d-440d-815d-466579dbc520,wasserstein_distance,wasserstein,percent,2012-04-28 00:00:00+00,0.0210439560439559,0,0,59,1,23
+617,a3c95622-7a0f-4ae1-a5a2-94eb88e82955,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,873.6974587912088,0,0,31,1,24
+618,c8f8fa6d-3cd2-4c16-806f-22dc1de2dd30,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,1.275164835164837,0,0,32,1,24
+619,a683fa81-3684-4224-a263-478f9072dcfa,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.3763725274725274,0,0,33,1,24
+620,1affd673-9aa9-4380-9c00-2a4780e7a363,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,34.88411565934066,0,0,34,1,24
+621,68799bd9-a942-4081-b9dd-062a04cdf892,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.5387637362637361,0,0,35,1,24
+622,efcf5d69-1c0c-42bb-b584-357e1ea71564,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.3453021978021978,0,0,36,1,24
+623,25c8a7d6-0047-4493-baa4-3c127a508d72,jensenshannon,jensenshannon,percent,2012-04-29 00:00:00+00,0.1028640952389532,0,0,37,2,24
+624,d247156c-4d65-4dea-b4e0-6613d521ac26,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,5571.409330494503,0,0,38,1,24
+625,2975f83b-12e0-4cf4-912a-a59dcb19943a,jensenshannon,jensenshannon,percent,2012-04-29 00:00:00+00,0.01499379150604,0,0,39,2,24
+626,a2ea1a54-e6f3-4436-b930-612dfcb41ce6,jensenshannon,jensenshannon,percent,2012-04-29 00:00:00+00,0.1330208323002085,0,0,41,2,24
+627,50df9df4-24fb-4faf-9ef1-da933c8f4101,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.8368971153846156,0,0,42,1,24
+628,71f3e5bd-5cda-45bd-8f05-557f6f4c7b26,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.5112225274725269,0,0,43,1,24
+629,eccdc981-ce6c-4811-bac2-4f6fbcaa8f8d,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.0227609890109889,0,0,44,1,24
+630,34df08d9-8837-4595-9a58-9d80b25b0fd5,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,1028.2306181318677,0,0,45,1,24
+631,d53b9cf8-00d8-4352-8070-372bcf2504b6,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,3.3372609890109897,0,0,46,1,24
+632,9eda539b-ae8c-4ae4-a022-b2429c71a960,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.7383241758241756,0,0,47,1,24
+633,9e908ab8-714d-4592-8538-87f43cd98e66,jensenshannon,jensenshannon,percent,2012-04-29 00:00:00+00,0.0,0,0,48,2,24
+634,59e739cc-6fb2-4d03-990c-0fa6cdf9030b,jensenshannon,jensenshannon,percent,2012-04-29 00:00:00+00,0.0,0,0,49,2,24
+635,364a19ce-a1bb-42b9-b323-af4d090dcd24,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.089519231,0,0,50,1,24
+636,640f42b0-92e6-4a48-a3bb-2a7f318dab69,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.020260989,0,0,51,1,24
+637,868ea504-5edd-4c27-b938-26aec0a59063,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,5.373420329670331,0,0,52,1,24
+638,cd587213-8a5f-4ff9-86d0-2619902dae86,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.77375,0,0,53,1,24
+639,d75792d7-68f3-4b13-95c4-24339992b727,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.01364494227908,0,0,54,1,24
+640,ed0a220b-7a8e-400b-adf9-6bfdf2e80247,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.0294037482554051,0,0,55,1,24
+641,2c573c42-8124-4681-8c47-c23cac5ab557,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,15.541277472527469,0,0,56,1,24
+642,74aa90bb-38ad-412d-bb07-d93240ebaf9d,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.000161744,0,0,57,1,24
+643,13009675-404d-4c55-90ab-90494393e220,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.000145988,0,0,58,1,24
+644,4441162a-196a-47c5-ae34-f9cb8470c2c1,wasserstein_distance,wasserstein,percent,2012-04-29 00:00:00+00,0.043021978,0,0,59,1,24
+645,09dee87a-749a-4d1a-9a5b-06113bcfd856,Accuracy,ML metric,percent,2012-04-07 00:00:00+00,0.8469387755102041,0,0,9999,3,2
+646,196efbc6-1a0d-4ff5-add4-22cb6b1fcb7d,F1,ML metric,percent,2012-04-07 00:00:00+00,0.0,0,0,9999,4,2
+647,1d4c66a0-cb18-4e88-9aca-8e3c5b592ed9,MCC,ML metric,percent,2012-04-07 00:00:00+00,0.0,0,0,9999,5,2
+648,b1103f26-14bc-4eba-bece-b6dfa274e5ef,Precision,ML metric,percent,2012-04-07 00:00:00+00,0.0,0,0,9999,6,2
+649,eb7d8ac8-8c1a-439c-83bc-ba66220fe8ba,ROCAUC,ML metric,percent,2012-04-07 00:00:00+00,0.814859438,0,0,9999,7,2
+650,61e3b049-865d-49ee-8cda-403d2e3129f6,Recall,ML metric,percent,2012-04-07 00:00:00+00,0.0,0,0,9999,8,2
+651,61e217a4-0579-4e9c-a240-f75770832714,Accuracy,ML metric,percent,2012-04-08 00:00:00+00,0.8775510204081632,0,0,9999,3,3
+652,57541de7-e7ed-4e46-aea5-6cf62d0185ea,F1,ML metric,percent,2012-04-08 00:00:00+00,0.0,0,0,9999,4,3
+653,5d772464-5f70-45c2-addd-df1014c30501,MCC,ML metric,percent,2012-04-08 00:00:00+00,0.0,0,0,9999,5,3
+654,782dea5b-ee96-44ba-8156-6fc45a24e592,Precision,ML metric,percent,2012-04-08 00:00:00+00,0.0,0,0,9999,6,3
+655,7531a482-69c8-4683-b851-a672cdfd1fe3,ROCAUC,ML metric,percent,2012-04-08 00:00:00+00,0.9035852713178294,0,0,9999,7,3
+656,285b7d1d-11f0-439a-a4f4-69c19432adb7,Recall,ML metric,percent,2012-04-08 00:00:00+00,0.0,0,0,9999,8,3
+657,4255e27c-459d-45cd-affd-1e08a595eaa2,Accuracy,ML metric,percent,2012-04-09 00:00:00+00,0.8979591836734694,0,0,9999,3,4
+658,016061a0-a000-48e0-af6d-27bbfb893bb1,F1,ML metric,percent,2012-04-09 00:00:00+00,0.0,0,0,9999,4,4
+659,b465e93c-2d4e-4fc6-9169-604fb19924c3,MCC,ML metric,percent,2012-04-09 00:00:00+00,0.0,0,0,9999,5,4
+660,44efcf20-73b8-4996-b74d-025088ebb256,Precision,ML metric,percent,2012-04-09 00:00:00+00,0.0,0,0,9999,6,4
+661,3ccca78b-7efc-4f79-9602-64843d9fa194,ROCAUC,ML metric,percent,2012-04-09 00:00:00+00,0.9238636363636364,0,0,9999,7,4
+662,b67c86a6-af48-4ff5-81c8-8f57f3f270aa,Recall,ML metric,percent,2012-04-09 00:00:00+00,0.0,0,0,9999,8,4
+663,58426489-4a11-45e8-9ce1-ca9798d4326f,Accuracy,ML metric,percent,2012-04-10 00:00:00+00,0.8673469387755102,0,0,9999,3,5
+664,89952f73-c25f-4af7-b379-fee4d8285a80,F1,ML metric,percent,2012-04-10 00:00:00+00,0.0,0,0,9999,4,5
+665,17e88022-48f7-4197-8240-c5d0fd5501e1,MCC,ML metric,percent,2012-04-10 00:00:00+00,0.0,0,0,9999,5,5
+666,468f600b-2dc9-4dc2-9ec2-b63b3e92c38e,Precision,ML metric,percent,2012-04-10 00:00:00+00,0.0,0,0,9999,6,5
+667,5e577f28-e79f-4f82-afe6-2107fbe6ea7a,ROCAUC,ML metric,percent,2012-04-10 00:00:00+00,0.8755656108597285,0,0,9999,7,5
+668,14525166-06fa-4c16-9cf4-b974a4fe17b6,Recall,ML metric,percent,2012-04-10 00:00:00+00,0.0,0,0,9999,8,5
+669,3d2095f7-0fd1-4b5a-bc2f-0542956b2b7a,Accuracy,ML metric,percent,2012-04-11 00:00:00+00,0.8556701030927835,0,0,9999,3,6
+670,790b9158-eb68-4adb-8fff-c673a26f7903,F1,ML metric,percent,2012-04-11 00:00:00+00,0.0,0,0,9999,4,6
+671,613d2d40-abb7-4125-a2a5-a82653589898,MCC,ML metric,percent,2012-04-11 00:00:00+00,0.0,0,0,9999,5,6
+672,78eb55e4-987f-41ca-9994-e8b2acd6c094,Precision,ML metric,percent,2012-04-11 00:00:00+00,0.0,0,0,9999,6,6
+673,8307eb0d-d052-44c2-90f3-f4ebc1337048,ROCAUC,ML metric,percent,2012-04-11 00:00:00+00,0.8894148020654045,0,0,9999,7,6
+674,afb1ea1e-f906-4838-bee9-f6c029a67a9d,Recall,ML metric,percent,2012-04-11 00:00:00+00,0.0,0,0,9999,8,6
+675,5f9271a6-5ba7-4a4b-ba4f-ecf2b13694e5,Accuracy,ML metric,percent,2012-04-12 00:00:00+00,0.8541666666666666,0,0,9999,3,7
+676,ff8b7450-b0c1-4fa2-a78d-4d7a9da4f220,F1,ML metric,percent,2012-04-12 00:00:00+00,0.0,0,0,9999,4,7
+677,0a3381c7-b1a0-4ba0-bf61-c91b854ef7a0,MCC,ML metric,percent,2012-04-12 00:00:00+00,0.0,0,0,9999,5,7
+678,c973683f-29ff-446f-9811-d36fc586aa43,Precision,ML metric,percent,2012-04-12 00:00:00+00,0.0,0,0,9999,6,7
+679,5ff867e8-592b-44ba-b972-dac1b99125ba,ROCAUC,ML metric,percent,2012-04-12 00:00:00+00,0.8806620209059233,0,0,9999,7,7
+680,860e5177-dc48-44da-b98b-9272bd1c30c9,Recall,ML metric,percent,2012-04-12 00:00:00+00,0.0,0,0,9999,8,7
+681,a3b83eb2-70bf-4a1b-a96d-6c03367b2e04,Accuracy,ML metric,percent,2012-04-13 00:00:00+00,0.8315789473684211,0,0,9999,3,8
+682,3b78504c-ab3d-4f8a-b2f9-3620e23d2fc7,F1,ML metric,percent,2012-04-13 00:00:00+00,0.0,0,0,9999,4,8
+683,97f2e9bf-853c-45e8-b397-800d21e64979,MCC,ML metric,percent,2012-04-13 00:00:00+00,0.0,0,0,9999,5,8
+684,e863fc81-f872-44f9-b935-2c547f32532d,Precision,ML metric,percent,2012-04-13 00:00:00+00,0.0,0,0,9999,6,8
+685,8a5cf886-1a47-4cea-964b-f7fdb33b395b,ROCAUC,ML metric,percent,2012-04-13 00:00:00+00,0.8239715189873417,0,0,9999,7,8
+686,43eb09fc-1891-4cf6-af37-22cf028848ea,Recall,ML metric,percent,2012-04-13 00:00:00+00,0.0,0,0,9999,8,8
+687,231a5d65-5be1-4654-9dca-330fc8fa7226,Accuracy,ML metric,percent,2012-04-14 00:00:00+00,0.8085106382978723,0,0,9999,3,9
+688,c466fb92-9480-4ab9-9b48-00c9a1394617,F1,ML metric,percent,2012-04-14 00:00:00+00,0.0,0,0,9999,4,9
+689,aa785929-3cc1-42aa-9628-0b82a749c882,MCC,ML metric,percent,2012-04-14 00:00:00+00,0.0,0,0,9999,5,9
+690,21e3a6fb-8a86-4112-bc54-75dabb1c9ac9,Precision,ML metric,percent,2012-04-14 00:00:00+00,0.0,0,0,9999,6,9
+691,3a3ffe2e-2828-47d7-b318-2e9a8f5c9e0e,ROCAUC,ML metric,percent,2012-04-14 00:00:00+00,0.8377192982456141,0,0,9999,7,9
+692,278d09cf-abc6-46b0-8b29-39c4ba6f5a0d,Recall,ML metric,percent,2012-04-14 00:00:00+00,0.0,0,0,9999,8,9
+693,b647596d-8da4-40cc-b86c-9bf6fa4c9428,Accuracy,ML metric,percent,2012-04-15 00:00:00+00,0.8064516129032258,0,0,9999,3,10
+694,1e1c23fd-6a90-415a-bf2f-dcb344a6bfcc,F1,ML metric,percent,2012-04-15 00:00:00+00,0.0,0,0,9999,4,10
+695,0fb431ef-3909-47ae-bb2d-c3b3d8d8a108,MCC,ML metric,percent,2012-04-15 00:00:00+00,0.0,0,0,9999,5,10
+696,33dd5484-04f2-459b-9113-4d4896a9ef3b,Precision,ML metric,percent,2012-04-15 00:00:00+00,0.0,0,0,9999,6,10
+697,c01b249b-35a1-4aba-93c7-7d560ed17c10,ROCAUC,ML metric,percent,2012-04-15 00:00:00+00,0.8077777777777777,0,0,9999,7,10
+698,d5fd45c0-4232-4e49-a2c3-cc11d407a9db,Recall,ML metric,percent,2012-04-15 00:00:00+00,0.0,0,0,9999,8,10
+699,a706ee3f-e895-4f3a-880a-1ca1dfd66f58,Accuracy,ML metric,percent,2012-04-16 00:00:00+00,0.782608696,0,0,9999,3,11
+700,c0c03cb0-1c91-467b-880e-3650c85f7854,F1,ML metric,percent,2012-04-16 00:00:00+00,0.0,0,0,9999,4,11
+701,d5fd7fde-e60e-4f83-915e-d6d02408a169,MCC,ML metric,percent,2012-04-16 00:00:00+00,0.0,0,0,9999,5,11
+702,acc397d2-6271-458c-b06c-60266cdff28a,Precision,ML metric,percent,2012-04-16 00:00:00+00,0.0,0,0,9999,6,11
+703,84cc572f-aeea-41c2-91c8-1ffe788c19dd,ROCAUC,ML metric,percent,2012-04-16 00:00:00+00,0.773611111,0,0,9999,7,11
+704,5e11fb56-0ba8-42f1-a89f-d096a3934493,Recall,ML metric,percent,2012-04-16 00:00:00+00,0.0,0,0,9999,8,11
+705,b88ff517-282f-4208-86b3-0f7317b7fe72,Accuracy,ML metric,percent,2012-04-17 00:00:00+00,0.8241758241758241,0,0,9999,3,12
+706,b8c4bc48-e133-472d-bc02-ae541cb6ef51,F1,ML metric,percent,2012-04-17 00:00:00+00,0.0,0,0,9999,4,12
+708,494bfba9-7c23-4efb-bff2-fdeab456050b,Precision,ML metric,percent,2012-04-17 00:00:00+00,0.0,0,0,9999,6,12
+709,67ad50a9-b74a-4834-a771-8bc50783e2d1,ROCAUC,ML metric,percent,2012-04-17 00:00:00+00,0.77375,0,0,9999,7,12
+710,0336b4ab-2809-4d78-aa45-a4a3186d78ce,Recall,ML metric,percent,2012-04-17 00:00:00+00,0.0,0,0,9999,8,12
+711,31231f2d-df49-492c-ac5f-dba7b4356b12,Accuracy,ML metric,percent,2012-04-18 00:00:00+00,0.8351648351648352,0,0,9999,3,13
+712,b182fe7c-6c0c-4c45-a611-87723a131acc,F1,ML metric,percent,2012-04-18 00:00:00+00,0.0,0,0,9999,4,13
+713,6c9e2e36-92b7-4c19-990f-3cb56a16c582,MCC,ML metric,percent,2012-04-18 00:00:00+00,0.0,0,0,9999,5,13
+714,ef98e9a6-0da3-4104-8e83-d6a848a41615,Precision,ML metric,percent,2012-04-18 00:00:00+00,0.0,0,0,9999,6,13
+715,4d5d4185-c74d-4ffd-ab09-b9ccf638e8ec,ROCAUC,ML metric,percent,2012-04-18 00:00:00+00,0.762719298,0,0,9999,7,13
+716,88b34f7c-f581-4dfc-b16d-f4a8e7cfdf8c,Recall,ML metric,percent,2012-04-18 00:00:00+00,0.0,0,0,9999,8,13
+717,0b517687-60d5-49d5-90ef-c1c66105ac62,Accuracy,ML metric,percent,2012-04-19 00:00:00+00,0.8351648351648352,0,0,9999,3,14
+718,3882f5de-39e6-4319-9646-b592e3bed401,F1,ML metric,percent,2012-04-19 00:00:00+00,0.0,0,0,9999,4,14
+719,381e0b4b-decf-47b0-a528-6b474cf4710b,MCC,ML metric,percent,2012-04-19 00:00:00+00,0.0,0,0,9999,5,14
+720,c57ebb93-6c69-43ca-a6c4-a2aa9ee63462,Precision,ML metric,percent,2012-04-19 00:00:00+00,0.0,0,0,9999,6,14
+721,b2a66564-d94c-4d5c-951d-4e7ec3b4d638,ROCAUC,ML metric,percent,2012-04-19 00:00:00+00,0.7035087719298245,0,0,9999,7,14
+722,e37c59f6-1cb8-4f53-9a52-7c4de36a9bd4,Recall,ML metric,percent,2012-04-19 00:00:00+00,0.0,0,0,9999,8,14
+723,17780a0a-041b-47db-a477-3679e1d33315,Accuracy,ML metric,percent,2012-04-20 00:00:00+00,0.8681318681318682,0,0,9999,3,15
+724,df6f531b-caa6-487a-bdc7-322eae4cd2f3,F1,ML metric,percent,2012-04-20 00:00:00+00,0.0,0,0,9999,4,15
+725,981a611d-2788-406c-b947-e894f6a12469,MCC,ML metric,percent,2012-04-20 00:00:00+00,0.0,0,0,9999,5,15
+726,cec18884-5427-492d-a576-a643800a6dfa,Precision,ML metric,percent,2012-04-20 00:00:00+00,0.0,0,0,9999,6,15
+727,5e9ff0c0-a9bb-40ac-aad3-815e664f5948,ROCAUC,ML metric,percent,2012-04-20 00:00:00+00,0.7320675105485233,0,0,9999,7,15
+728,210e8675-7a56-4a85-9759-ced74e8a7b69,Recall,ML metric,percent,2012-04-20 00:00:00+00,0.0,0,0,9999,8,15
+729,9e481ac6-eb0e-43f8-a39a-6b6acceb9b22,Accuracy,ML metric,percent,2012-04-21 00:00:00+00,0.8901098901098901,0,0,9999,3,16
+730,f8beb94c-f39d-4314-8a95-5cf790c8b255,F1,ML metric,percent,2012-04-21 00:00:00+00,0.0,0,0,9999,4,16
+731,07dee00f-f53c-4e7c-8ad5-bfed92b6cf52,MCC,ML metric,percent,2012-04-21 00:00:00+00,0.0,0,0,9999,5,16
+732,086e90a5-f88e-468e-9de1-c7baf267b113,Precision,ML metric,percent,2012-04-21 00:00:00+00,0.0,0,0,9999,6,16
+733,75a1cc20-2af1-424a-bd9c-5163e8490b16,ROCAUC,ML metric,percent,2012-04-21 00:00:00+00,0.608641975,0,0,9999,7,16
+734,d3b24e2f-97cd-40ab-8445-32a355b94ff7,Recall,ML metric,percent,2012-04-21 00:00:00+00,0.0,0,0,9999,8,16
+735,34fe4986-5809-4f78-941e-b4ce1cd08682,Accuracy,ML metric,percent,2012-04-22 00:00:00+00,0.9010989010989012,0,0,9999,3,17
+736,5ce85dd4-388e-46db-a71e-dd30938db23e,F1,ML metric,percent,2012-04-22 00:00:00+00,0.0,0,0,9999,4,17
+737,cf07d765-ea75-4b1e-ba62-857b18b10ab2,MCC,ML metric,percent,2012-04-22 00:00:00+00,0.0,0,0,9999,5,17
+738,962e8a11-119a-486c-aac6-426c9ef96fb0,Precision,ML metric,percent,2012-04-22 00:00:00+00,0.0,0,0,9999,6,17
+739,2432f22d-a804-457b-af10-1b4b264a9334,ROCAUC,ML metric,percent,2012-04-22 00:00:00+00,0.5995934959349594,0,0,9999,7,17
+740,613454a2-bbb8-4cac-ad12-3b392145c167,Recall,ML metric,percent,2012-04-22 00:00:00+00,0.0,0,0,9999,8,17
+741,b5c88403-51b4-46da-bf9c-998b5fb01dfe,Accuracy,ML metric,percent,2012-04-23 00:00:00+00,0.9010989010989012,0,0,9999,3,18
+742,63a362dd-a47d-4829-b3bb-fd0222c566a9,F1,ML metric,percent,2012-04-23 00:00:00+00,0.0,0,0,9999,4,18
+743,2a685add-8d83-449f-baac-63498774e1e2,MCC,ML metric,percent,2012-04-23 00:00:00+00,0.0,0,0,9999,5,18
+744,3bca6d06-bb1e-403e-bd44-52a71bc0b42b,Precision,ML metric,percent,2012-04-23 00:00:00+00,0.0,0,0,9999,6,18
+745,416dca80-66c1-4afb-9b20-16dc7d6a51eb,ROCAUC,ML metric,percent,2012-04-23 00:00:00+00,0.6016260162601625,0,0,9999,7,18
+746,acee6aee-5dd4-4c6f-a49b-010c027d6453,Recall,ML metric,percent,2012-04-23 00:00:00+00,0.0,0,0,9999,8,18
+747,7af14952-57b4-44d2-81cc-0aa43d74c2f9,Accuracy,ML metric,percent,2012-04-24 00:00:00+00,0.8791208791208791,0,0,9999,3,19
+748,354c7c9b-abaa-4d84-a2f0-52c01db1732d,F1,ML metric,percent,2012-04-24 00:00:00+00,0.0,0,0,9999,4,19
+749,fa0ec302-74c7-4e18-b572-1574c6e70a62,MCC,ML metric,percent,2012-04-24 00:00:00+00,0.0,0,0,9999,5,19
+750,4808dca5-1948-487f-8ffc-0d09c998c27a,Precision,ML metric,percent,2012-04-24 00:00:00+00,0.0,0,0,9999,6,19
+751,e60250c3-cb84-417d-b5c8-1a7e73978f4b,ROCAUC,ML metric,percent,2012-04-24 00:00:00+00,0.602840909,0,0,9999,7,19
+752,d02ed5bd-d9b9-4d7b-90f9-9ec9fbd64ece,Recall,ML metric,percent,2012-04-24 00:00:00+00,0.0,0,0,9999,8,19
+753,fdc55a23-cfca-4bf4-8260-ef38389340e4,Accuracy,ML metric,percent,2012-04-25 00:00:00+00,0.8681318681318682,0,0,9999,3,20
+754,0dd76897-3039-49fe-8a0f-8bfaa2f8cf48,F1,ML metric,percent,2012-04-25 00:00:00+00,0.0,0,0,9999,4,20
+755,7b6b10cf-9414-49eb-a68d-fa0eb1c25ec4,MCC,ML metric,percent,2012-04-25 00:00:00+00,0.0,0,0,9999,5,20
+756,fdc2abf3-faed-4710-8980-ec0729e66406,Precision,ML metric,percent,2012-04-25 00:00:00+00,0.0,0,0,9999,6,20
+757,6f727fc5-8c14-46a6-9d62-6bba52c7fd91,ROCAUC,ML metric,percent,2012-04-25 00:00:00+00,0.5833333333333333,0,0,9999,7,20
+758,a521c832-9d22-4f7a-8a2d-890e3211bce9,Recall,ML metric,percent,2012-04-25 00:00:00+00,0.0,0,0,9999,8,20
+759,58ddd12e-4b9e-4425-b2dc-53d07d4474b9,Accuracy,ML metric,percent,2012-04-26 00:00:00+00,0.8791208791208791,0,0,9999,3,21
+760,d13a2a9a-7cfa-4c11-aa5f-18e7f4729104,F1,ML metric,percent,2012-04-26 00:00:00+00,0.0,0,0,9999,4,21
+761,8c57619e-d561-4b04-9f3b-40c87f9b13d0,MCC,ML metric,percent,2012-04-26 00:00:00+00,0.0,0,0,9999,5,21
+762,fbf22851-9021-4b0e-b84f-1e252c49235b,Precision,ML metric,percent,2012-04-26 00:00:00+00,0.0,0,0,9999,6,21
+763,72cad643-7720-4105-a023-914e79f543e9,ROCAUC,ML metric,percent,2012-04-26 00:00:00+00,0.5488636363636363,0,0,9999,7,21
+764,9ebcb678-b8d6-406b-9ccd-0c24c0205e39,Recall,ML metric,percent,2012-04-26 00:00:00+00,0.0,0,0,9999,8,21
+765,2fdbb3de-57ee-4222-af86-b3bbf06e2ab1,Accuracy,ML metric,percent,2012-04-27 00:00:00+00,0.8681318681318682,0,0,9999,3,22
+766,137cb0f3-9878-475c-9b1b-674b57f6cac0,F1,ML metric,percent,2012-04-27 00:00:00+00,0.0,0,0,9999,4,22
+767,6ca086b9-b377-4c34-9300-274633b14dbd,MCC,ML metric,percent,2012-04-27 00:00:00+00,0.0,0,0,9999,5,22
+768,9a8be849-68fb-4365-9f7c-96c4595f57ef,Precision,ML metric,percent,2012-04-27 00:00:00+00,0.0,0,0,9999,6,22
+769,f16525bb-71ac-4525-86eb-6e917753d6d2,ROCAUC,ML metric,percent,2012-04-27 00:00:00+00,0.5490506329113923,0,0,9999,7,22
+770,c79172da-c748-42a6-b27b-edd7491ca16e,Recall,ML metric,percent,2012-04-27 00:00:00+00,0.0,0,0,9999,8,22
+771,041da71c-2ca8-4e4d-9b26-a8b4c54ee77e,Accuracy,ML metric,percent,2012-04-28 00:00:00+00,0.8791208791208791,0,0,9999,3,23
+772,bd8df10c-108e-44ce-861c-57b2863fa7fb,F1,ML metric,percent,2012-04-28 00:00:00+00,0.0,0,0,9999,4,23
+773,02c01d72-317a-4e89-a79f-7e7225a1fa90,MCC,ML metric,percent,2012-04-28 00:00:00+00,0.0,0,0,9999,5,23
+774,4395cb97-ea1c-49ae-a286-017b34ca4c8c,Precision,ML metric,percent,2012-04-28 00:00:00+00,0.0,0,0,9999,6,23
+775,967c1c69-1948-4730-9142-f058f11970cf,ROCAUC,ML metric,percent,2012-04-28 00:00:00+00,0.5852272727272727,0,0,9999,7,23
+776,9c26dd01-177f-441d-8756-e879a76e98ff,Recall,ML metric,percent,2012-04-28 00:00:00+00,0.0,0,0,9999,8,23
+777,7c8f9f83-4d68-4e76-a55c-b0e1618efcc3,Accuracy,ML metric,percent,2012-04-29 00:00:00+00,0.8571428571428571,0,0,9999,3,24
+778,b454c358-c79a-4c8b-9a4b-eeb881f7ce6d,F1,ML metric,percent,2012-04-29 00:00:00+00,0.0,0,0,9999,4,24
+779,e7948820-cb72-4f7a-aebb-59516910b3eb,MCC,ML metric,percent,2012-04-29 00:00:00+00,0.0,0,0,9999,5,24
+780,98375371-5700-45de-9f2c-bff43f58fbd4,Precision,ML metric,percent,2012-04-29 00:00:00+00,0.0,0,0,9999,6,24
+781,ac4c0cb2-6af7-4c6d-8bb1-19e2aa20473a,ROCAUC,ML metric,percent,2012-04-29 00:00:00+00,0.5759368836291914,0,0,9999,7,24
+782,b1a4aa0f-233d-402c-934a-b8db953f78b1,Recall,ML metric,percent,2012-04-29 00:00:00+00,0.0,0,0,9999,8,24
+783,3ca23dd1-30e1-4058-a6b1-90e98f3764ec,Distribution Inside,loan_amnt,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+784,376304ff-fb9e-4801-ad98-53de9d1f75de,Distribution Outside,loan_amnt,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+785,1b276f5e-050e-4a71-9349-b1526d8d2ae6,Distribution Inside,term,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+786,281ea48b-2c14-4833-9ff3-242bf62c8163,Distribution Outside,term,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+787,61e5139b-dda8-432c-88ad-c8f76cd2ac9f,Distribution Inside,int_rate,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+788,5b3e2052-025c-4b7d-983a-07e6544d057b,Distribution Outside,int_rate,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+789,096202c9-a3e6-4ffd-a0f9-09e1c8fd4d12,Distribution Inside,installment,percent,2012-04-30 00:00:00+00,394.0,0,0,9999,9,25
+790,62ca05b0-a477-4722-9ca8-87e829b51ecc,Distribution Outside,installment,percent,2012-04-30 00:00:00+00,6.0,0,0,9999,10,25
+791,e556e370-5817-42ee-b47e-590484d63adb,Distribution Inside,sub_grade,percent,2012-04-30 00:00:00+00,397.0,0,0,9999,9,25
+792,8701c8db-5b85-46bf-a99a-e7e7e845a700,Distribution Outside,sub_grade,percent,2012-04-30 00:00:00+00,3.0,0,0,9999,10,25
+793,ead9327e-569d-43ed-976c-fdf7ef0b9e52,Distribution Inside,emp_length,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+794,b15ae148-0d62-4d94-abbe-ee84205f0477,Distribution Outside,emp_length,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+795,8e77439e-8f71-4f8a-9e70-c15aafd62fad,Distribution Inside,annual_inc,percent,2012-04-30 00:00:00+00,396.0,0,0,9999,9,25
+796,183ddd27-3986-415a-bb75-36de4ab0eb81,Distribution Outside,annual_inc,percent,2012-04-30 00:00:00+00,4.0,0,0,9999,10,25
+797,4788320f-8733-488d-a332-5ca524e0fb8e,Distribution Inside,dti,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+798,cfaf1705-d160-4ca5-8a1c-fca540f0db92,Distribution Outside,dti,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+799,7f828308-b502-4bc8-9ab7-c40591949218,Distribution Inside,open_acc,percent,2012-04-30 00:00:00+00,397.0,0,0,9999,9,25
+800,e6bcfac8-f95e-446f-9b51-40c526f3d74c,Distribution Outside,open_acc,percent,2012-04-30 00:00:00+00,3.0,0,0,9999,10,25
+801,81cbf5ac-a879-445b-b1cb-6dbb3423b002,Distribution Inside,pub_rec,percent,2012-04-30 00:00:00+00,387.0,0,0,9999,9,25
+802,2ea861cf-53a4-4309-806d-0529b293ae32,Distribution Outside,pub_rec,percent,2012-04-30 00:00:00+00,13.0,0,0,9999,10,25
+803,8a3799fa-0a99-4d38-990c-1751f8679c83,Distribution Inside,revol_bal,percent,2012-04-30 00:00:00+00,393.0,0,0,9999,9,25
+804,a82cbb60-d16f-4b59-bca5-0cf08f1f3f8a,Distribution Outside,revol_bal,percent,2012-04-30 00:00:00+00,7.0,0,0,9999,10,25
+805,54ef4e4a-88b6-46b7-9945-3a1caf3b963e,Distribution Inside,revol_util,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+806,3eaf8f47-f706-453c-9389-5b1d41cc927d,Distribution Outside,revol_util,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+807,168c7620-62e0-4ea6-9261-7add3926635e,Distribution Inside,total_acc,percent,2012-04-30 00:00:00+00,396.0,0,0,9999,9,25
+808,9dec6850-f2a4-4f69-a86e-eca1dd45f545,Distribution Outside,total_acc,percent,2012-04-30 00:00:00+00,4.0,0,0,9999,10,25
+809,99ac388f-7827-4b54-891e-d2da079f646c,Distribution Inside,mort_acc,percent,2012-04-30 00:00:00+00,394.0,0,0,9999,9,25
+810,b9301e07-02e0-410c-8e24-007112f9f44c,Distribution Outside,mort_acc,percent,2012-04-30 00:00:00+00,6.0,0,0,9999,10,25
+811,7a449749-52cd-4eb4-9f57-1f4a70079428,Distribution Inside,pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,390.0,0,0,9999,9,25
+812,d6336ba8-67cd-4d48-9985-11d2133385b6,Distribution Outside,pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,10.0,0,0,9999,10,25
+813,510ee68d-ea09-42d8-8e83-9f2598df3cf0,Distribution Inside,fico_score,percent,2012-04-30 00:00:00+00,398.0,0,0,9999,9,25
+814,1fac844a-1575-476c-b411-ef6bc93c6859,Distribution Outside,fico_score,percent,2012-04-30 00:00:00+00,2.0,0,0,9999,10,25
+815,c3f6c89e-1f76-497a-8d2f-e236be959360,Distribution Inside,month_of_year,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+816,eb2fd15b-91b3-4ce2-885e-ecccfedc462a,Distribution Outside,month_of_year,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+817,0c5688d4-f54b-4dd2-87e8-be984b657480,Distribution Inside,ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+818,695824d5-c6b3-45ce-bf15-e487c925ea01,Distribution Outside,ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+819,252357d6-7053-4bfd-88bf-a2a91cfbe0a8,Distribution Inside,ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,400.0,0,0,9999,9,25
+820,d3f0ad53-66bb-458b-9917-976687dfa7ff,Distribution Outside,ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,10,25
+821,6904b87e-acc0-4e2a-a3ce-b21f0cc06305,Distribution Inside,month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,393.0,0,0,9999,9,25
+822,4cc49b32-2aae-4cee-bbeb-e81a08b68eba,Distribution Outside,month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,7.0,0,0,9999,10,25
+823,493b29f3-37f6-42f4-9690-64e479a6f52f,Distribution Inside,ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,389.0,0,0,9999,9,25
+824,554c9ba3-6b86-4aac-a249-1bdca535d28b,Distribution Outside,ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,11.0,0,0,9999,10,25
+825,c459e26a-e718-48cf-97b8-e3ccfdb48a37,Distribution Inside,ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,392.0,0,0,9999,9,25
+826,14d7833b-a08b-4746-9c17-573f2b5b01f8,Distribution Outside,ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,8.0,0,0,9999,10,25
+827,4db7fe2d-e25d-4270-a0c9-91042150bea4,Distribution Inside,ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,390.0,0,0,9999,9,25
+828,478a802f-2eeb-4687-bad7-5fe03e8d1635,Distribution Outside,ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,10.0,0,0,9999,10,25
+829,583023d1-1473-498f-bdf3-b44f2e6d9685,Number of Evaluated Constraint Violations (Lower),loan_amnt,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+830,ee85c0d5-39e1-47e8-9f8b-544e5fd04756,Number of Evaluated Constraint Violations (Upper),loan_amnt,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+831,ca7ecde4-302e-49ba-8615-3bd68de776aa,Number of Evaluated Constraint Violations (Lower),term,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+832,62d34c4a-1271-410e-af7e-2037fdc237b1,Number of Evaluated Constraint Violations (Upper),term,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+833,22db51b5-07b6-4be1-b525-2b3377173411,Number of Evaluated Constraint Violations (Lower),int_rate,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+834,b6095e64-2574-41d4-964f-98f9581eac47,Number of Evaluated Constraint Violations (Upper),int_rate,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+835,9cb3ba8a-9c9e-443f-9145-094ae0eeaa4e,Number of Evaluated Constraint Violations (Lower),installment,percent,2012-04-30 00:00:00+00,2.0,0,0,9999,11,25
+836,8343c973-93d1-4b83-8400-39aff13836e2,Number of Evaluated Constraint Violations (Upper),installment,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,12,25
+837,1eeecf56-7ee6-4ac4-8768-c4d27fe59af3,Number of Evaluated Constraint Violations (Lower),sub_grade,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+838,f529e765-6463-42d0-9709-35a3279fba44,Number of Evaluated Constraint Violations (Upper),sub_grade,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+839,1849dd2f-1e4b-49c1-9932-5a962e72f0a5,Number of Evaluated Constraint Violations (Lower),emp_length,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+840,619270a5-027d-46cb-bec1-ad7c6da36cb1,Number of Evaluated Constraint Violations (Upper),emp_length,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+841,bd44acd6-5d33-4c01-8e9e-b7746f85003b,Number of Evaluated Constraint Violations (Lower),annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+842,acc05d66-a8ea-46dc-963a-787a73455363,Number of Evaluated Constraint Violations (Upper),annual_inc,percent,2012-04-30 00:00:00+00,2.0,0,0,9999,12,25
+843,0196c7b3-496f-442f-9976-ce722ec8eaa3,Number of Evaluated Constraint Violations (Lower),dti,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,11,25
+844,8b2d1e11-66c1-4c57-a4a5-3667e5fac598,Number of Evaluated Constraint Violations (Upper),dti,percent,2012-04-30 00:00:00+00,2.0,0,0,9999,12,25
+845,660e5015-6573-471e-8397-80661adb5d26,Number of Evaluated Constraint Violations (Lower),open_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+846,898a759b-bd0d-4c7e-a5ab-4fa8d7ae61b0,Number of Evaluated Constraint Violations (Upper),open_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+847,436267cd-f149-4a89-9da5-0a44ec47a664,Number of Evaluated Constraint Violations (Lower),pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+848,5e83b7c1-cdf1-4993-8204-2f3fda4ceaec,Number of Evaluated Constraint Violations (Upper),pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+849,a9a25094-fa23-4453-ad3b-b971be4e4222,Number of Evaluated Constraint Violations (Lower),revol_bal,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+850,bd4f823f-08e9-408d-8828-cb28f4950f4f,Number of Evaluated Constraint Violations (Upper),revol_bal,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,12,25
+851,c307d6e6-093a-4cf9-94fa-5a13556c6039,Number of Evaluated Constraint Violations (Lower),revol_util,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+852,951c32e9-c921-45ee-9d04-41ad087eb81f,Number of Evaluated Constraint Violations (Upper),revol_util,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+853,05be5178-ab8a-447b-87fa-e263fceaa02d,Number of Evaluated Constraint Violations (Lower),total_acc,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,11,25
+854,65761674-cda3-48c8-b929-ab21ef394d8b,Number of Evaluated Constraint Violations (Upper),total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+855,ef34a53b-adbe-4391-810f-16f7e4fd9eeb,Number of Evaluated Constraint Violations (Lower),mort_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+856,06ce0de3-7c26-4dce-b94f-64b343a36e5a,Number of Evaluated Constraint Violations (Upper),mort_acc,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,12,25
+857,88cdb5bd-92ae-4938-8944-a8921c3d143d,Number of Evaluated Constraint Violations (Lower),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+858,2f7d5fcf-0a06-4da4-911d-7d4897d99905,Number of Evaluated Constraint Violations (Upper),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+859,b4668479-b874-4831-8c2f-baa8bb00afb9,Number of Evaluated Constraint Violations (Lower),fico_score,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+860,dc8dcf8a-8ef4-47ed-bb2b-8500395658d6,Number of Evaluated Constraint Violations (Upper),fico_score,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+861,9622c3af-2b55-4804-8a72-f6af923a9254,Number of Evaluated Constraint Violations (Lower),month_of_year,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+862,37fd6aca-4657-44cc-9c77-2f929413431c,Number of Evaluated Constraint Violations (Upper),month_of_year,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+863,5acb4c2b-b2bc-446e-9b2b-1ccda4c91a58,Number of Evaluated Constraint Violations (Lower),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+864,1efde1d5-0215-412e-897c-4e044562bef8,Number of Evaluated Constraint Violations (Upper),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+865,7d24d22f-48b7-448e-a4e0-ec5f054154d7,Number of Evaluated Constraint Violations (Lower),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+866,86dc473e-547c-4bf1-8635-7e9c32e104ba,Number of Evaluated Constraint Violations (Upper),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+867,7d55a8c4-5c2c-43b6-b2b3-707400646143,Number of Evaluated Constraint Violations (Lower),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+868,6318b533-6e8f-4bee-801e-ed9d9552a9ff,Number of Evaluated Constraint Violations (Upper),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,12,25
+869,6dfacb0a-d77d-478c-a714-612ee2693bfc,Number of Evaluated Constraint Violations (Lower),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+870,f2c0c31e-7118-4928-92e0-d440b4cbb0f3,Number of Evaluated Constraint Violations (Upper),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,12,25
+871,98a6587f-0e92-4032-85f9-3f77dcafcaa9,Number of Evaluated Constraint Violations (Lower),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+918,ae6eaf89-0b1f-4270-9562-5884b3b98482,Number of Reference Constraint Violations (Upper),fico_score,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+872,bd578b8f-5bfb-4443-a171-ab42a91bc6f8,Number of Evaluated Constraint Violations (Upper),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,1.0,0,0,9999,12,25
+873,d2d9f220-9bc1-49ac-9778-35468f56dafb,Number of Evaluated Constraint Violations (Lower),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,11,25
+874,99a58f59-7b91-4b9a-8a14-07250e134d55,Number of Evaluated Constraint Violations (Upper),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,12,25
+875,44007546-c88f-47a7-a6c5-f7631ab23031,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,37,13,25
+876,2cac8f28-b251-4e92-84c7-86bbfc7ab8a9,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,39,13,25
+877,a596acd2-bb17-4d40-a3fd-276fbdd29e07,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,41,13,25
+878,82ce12f5-7fd8-4a68-adbe-884328d79646,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,48,13,25
+879,eeb7cd0e-771a-45a6-8b39-30b70bcde64c,Number of Missing Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,49,13,25
+880,0d438e1d-4281-4f39-a088-d46fce44dc95,Number of Missing Category Instances in Test Data,,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,14,25
+881,1e3977e6-3668-4950-b2cf-d5d4f070cf0c,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,37,15,25
+882,c2cb56d3-9d66-4701-abbd-4a3ca5a5825f,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,39,15,25
+883,9eb0af11-2753-4aee-8489-cdb56ac799ba,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,41,15,25
+884,6bf39897-0710-40ad-879b-ae1b35131616,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,48,15,25
+885,3b300d63-65db-41e5-bb41-66c9eb9a80df,Number of New Categories in Test Data Feature,[],percent,2012-04-30 00:00:00+00,0.0,0,0,49,15,25
+886,d8e181b8-e987-4bab-bb89-81261044da68,Number of New Category Instances in Test Data,,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,16,25
+887,bb564703-cafa-42bf-8557-876a5b834c47,Number of Reference Constraint Violations (Lower),loan_amnt,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+888,c903d9a7-1308-4c2a-b777-17857818fe10,Number of Reference Constraint Violations (Upper),loan_amnt,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+889,2c08f8bc-9b18-45f8-be07-68fe4037bde6,Number of Reference Constraint Violations (Lower),term,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+890,053fd6b9-c447-43b2-93ea-bb78e1ef1474,Number of Reference Constraint Violations (Upper),term,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+891,3e4bc3d1-ce60-45fb-8e53-6be4e5044e0c,Number of Reference Constraint Violations (Lower),int_rate,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+892,4ab58f74-30ba-4cf9-ab3b-570004297c4b,Number of Reference Constraint Violations (Upper),int_rate,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+893,a92d99e7-cc49-4a8f-9e08-e0a36d252485,Number of Reference Constraint Violations (Lower),installment,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+894,fc5aaf23-8fb9-4eca-b14b-b056fbb152b4,Number of Reference Constraint Violations (Upper),installment,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+895,d86113fd-6ebf-4114-b3c9-9d7f0f920359,Number of Reference Constraint Violations (Lower),sub_grade,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+896,c41522cb-5a87-4275-8bf7-13cd009e8f1a,Number of Reference Constraint Violations (Upper),sub_grade,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+897,282b89ff-3b92-45e6-8925-1144f734bb4e,Number of Reference Constraint Violations (Lower),emp_length,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+898,371105d4-b41b-477b-a24f-ca81a09d1303,Number of Reference Constraint Violations (Upper),emp_length,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+899,03611ed3-602d-42c1-bc9d-748f9544ba06,Number of Reference Constraint Violations (Lower),annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+900,b2acf56e-d25e-433e-9626-88e23bab1bc4,Number of Reference Constraint Violations (Upper),annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+901,2d7d1841-4f87-4945-95f6-b25b369fc45d,Number of Reference Constraint Violations (Lower),dti,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+902,874c37bf-7021-4e32-9ecf-8369f5bc5d7c,Number of Reference Constraint Violations (Upper),dti,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+903,0928da67-6b54-4a45-bdbe-686df6259db6,Number of Reference Constraint Violations (Lower),open_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+904,d818ca1b-619a-41d4-9b11-dd3540fe8314,Number of Reference Constraint Violations (Upper),open_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+905,177c2f2f-7016-4091-afba-b683ccd56a67,Number of Reference Constraint Violations (Lower),pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+906,edcb319b-b08f-4a49-95cf-4118e270ead8,Number of Reference Constraint Violations (Upper),pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+907,079d8029-6acd-4129-8597-b960c11b3797,Number of Reference Constraint Violations (Lower),revol_bal,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+908,76ecdf0b-81da-4439-b2b0-b14f12e6bd1a,Number of Reference Constraint Violations (Upper),revol_bal,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+909,ed289f20-6ee3-4faa-aca8-8eee4aca5e70,Number of Reference Constraint Violations (Lower),revol_util,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+910,5f01955b-bf0e-44f4-aa06-d5bf717860f3,Number of Reference Constraint Violations (Upper),revol_util,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+911,a55fce8e-bcdf-4de2-bc95-4feb7a14b289,Number of Reference Constraint Violations (Lower),total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+912,fa13ebf7-726c-47be-92a5-c9d9d1d9081f,Number of Reference Constraint Violations (Upper),total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+913,59ea1914-2564-4b37-8b9e-53c84cf7afdc,Number of Reference Constraint Violations (Lower),mort_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+914,d899fc11-eeca-4cfd-95da-c2381a51628e,Number of Reference Constraint Violations (Upper),mort_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+915,0188004b-9ef9-4c5d-b68f-c12eab80b78a,Number of Reference Constraint Violations (Lower),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+916,eb77f81e-faa3-49dd-8a76-3e5f3abc12e0,Number of Reference Constraint Violations (Upper),pub_rec_bankruptcies,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+917,c596b167-05e2-4a12-96fd-33fc9e390b16,Number of Reference Constraint Violations (Lower),fico_score,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+919,41fefc9e-ec5e-4a38-96f7-f82c17e78b33,Number of Reference Constraint Violations (Lower),month_of_year,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+920,474f5060-1583-4b04-8a3a-cd694351a21e,Number of Reference Constraint Violations (Upper),month_of_year,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+921,7ac91063-6e70-4e94-b363-c6dc0a9125a6,Number of Reference Constraint Violations (Lower),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+922,ced1ce95-6132-4b21-b25b-e1ef95ee416f,Number of Reference Constraint Violations (Upper),ratio_loan_amnt_annual_inc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+923,3430e712-a0df-4b48-b905-72ae48e5ce19,Number of Reference Constraint Violations (Lower),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+924,288b1719-eca7-4ce8-9933-a20081f8d0c8,Number of Reference Constraint Violations (Upper),ratio_open_acc_total_acc,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+925,4f491a06-8d4f-44e8-bb16-e5db61a929f1,Number of Reference Constraint Violations (Lower),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+926,1d85ad4f-0594-4cec-a999-424cadd13f95,Number of Reference Constraint Violations (Upper),month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+927,9b6654e4-26f5-40d4-9be8-6f1fabc652cd,Number of Reference Constraint Violations (Lower),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+928,e31d88b8-ba6a-4aeb-875c-8cb6c4c043fd,Number of Reference Constraint Violations (Upper),ratio_pub_rec_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+929,27fbadc0-30e1-4759-b87f-8eab1af49bfb,Number of Reference Constraint Violations (Lower),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+930,b2958155-7d10-4715-b5a4-d60e5bde0b04,Number of Reference Constraint Violations (Upper),ratio_pub_rec_bankruptcies_month_since_earliest_cr_line,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+931,e8c9ab46-5eb0-4185-8dd6-f794ee87fad8,Number of Reference Constraint Violations (Lower),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,17,25
+932,effc8a0d-44f4-4401-a590-85d1e49cd17d,Number of Reference Constraint Violations (Upper),ratio_pub_rec_bankruptcies_pub_rec,percent,2012-04-30 00:00:00+00,0.0,0,0,9999,18,25
+933,5c4c4211-1c5f-431f-aa83-14ebf1dd6e11,Confusion Matrix,"(0,0)/(2,2)",percent,2012-04-30 00:00:00+00,338.0,0,0,9999,19,25
+934,b189e527-6fc4-41cc-8aff-21236e6482cf,Confusion Matrix,"(0,1)/(2,2)",percent,2012-04-30 00:00:00+00,0.0,0,0,9999,19,25
+935,497ca8d5-3c74-4539-a743-0a072d254c47,Confusion Matrix,"(1,0)/(2,2)",percent,2012-04-30 00:00:00+00,62.0,0,0,9999,19,25
+936,e28678cf-d70f-45af-9b29-1c5d029d1a4c,Confusion Matrix,"(1,1)/(2,2)",percent,2012-04-30 00:00:00+00,0.0,0,0,9999,19,25
